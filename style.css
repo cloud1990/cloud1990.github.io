@@ -1,9 +1,43 @@
 body {
     background: #00873c;
     text-align: center;
+    font-family: sans-serif;
 }
 #main {
-    width: 1000px;
-    height: 600px;
-    background:#00873c
+    /* width: 1000px;
+    height: 600px; */
+    background: #00873c;
+    color: #ffffff;
+    /* background:#00873c */
+}
+header {
+    color:white;
+    padding:10px; 
+    text-align:center;
+    height:50px;
+    background-image:url('imgs/maize_streamlines.png');
+    background-repeat: no-repeat;
+    background-position:66% 33%;
+}
+nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:10px; 
+    color:#00873c;
+    text-align:left;
+}
+section {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
 }
