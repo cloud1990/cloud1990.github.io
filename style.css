@@ -35,11 +35,13 @@ nav {
     background-color: #ffffff;
     /* height:300px; */
     /* width:60px; */
+    font-size:medium;
     float: left;
     padding: 10px;
     color: #00873c;
     text-align: left;
     position: sticky;
+    text-justify: newspaper;
     font-variant: small-caps;
     margin: 5px;
     
