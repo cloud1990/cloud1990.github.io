@@ -10,7 +10,7 @@ body {
     background: #00873c;
     color: #ffffff;
     margin: 0 auto;
-    font-size:medium;
+    font-size: medium;
     /* background:#00873c */
 }
 
@@ -36,7 +36,7 @@ nav {
     background-color: #ffffff;
     /* height:300px;  */
     /* width:60px; */
-    font-size:medium;
+    font-size: medium;
     float: left;
     padding: 20px;
     color: #00873c;
@@ -46,7 +46,6 @@ nav {
     font-variant: small-caps;
     margin: 5px;
     margin-bottom: 0;
-   
 }
 
 section {
@@ -57,11 +56,13 @@ section {
     text-justify: newspaper;
     margin: 5px;
 }
-.scale img{
-    background-size:contain|cover;
-    width:50%;
+
+.scale img {
+    background-size: contain|cover;
+    width: 50%;
     height: auto;
-    }
+}
+
 footer {
     background-color: white;
     /* width:100%; */
