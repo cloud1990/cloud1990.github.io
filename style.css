@@ -12,7 +12,13 @@ body {
     color: #ffffff;
     margin: 0 auto;
     font-size: medium;
+    /* line-height: 1.5em; */
     /* background:#00873c */
+}
+
+.publications {
+    font-family: 'Times New Roman', Times, serif;
+    /* font-size: xx-large; */
 }
 
 h1.small {
@@ -38,11 +44,12 @@ background-size:cover */
 }
 
 nav {
-    line-height: 30px;
+    line-height: 2em;
     background-color: #ffffff;
     /* height:300px;  */
-    /* width:60px; */
-    font-size: medium;
+    /* width: 200px; */
+    /* width: 20%; */
+    /* font-size: medium; */
     float: left;
     padding: 10px;
     color: var(--caugreen);
@@ -51,7 +58,7 @@ nav {
     text-justify: newspaper;
     font-variant: small-caps;
     margin: 15px;
-    margin-bottom: 0;
+    /* border: 5px solid #000; */
 }
 
 section {
@@ -69,6 +76,7 @@ section {
     display: inline-block;
     clear: both;
     font-family: "Times New Roman", "楷体";
+    /* border: 2px solid rgb(255, 0, 0); */
 }
 
 .photo {
@@ -77,6 +85,9 @@ section {
     height: auto;
     float: left;
     margin-bottom: 1.5em;
+    margin-top: 1.5em;
+    /* border: 1px solid #000; */
+    text-align: center;
 }
 
 .intro {
@@ -89,9 +100,9 @@ section {
 
 .scale img {
     background-size: contain|cover;
-    width: 75%;
+    width: 50%;
     height: auto;
-    margin: 5%;
+    /* margin: 5%; */
 }
 
 .exp-position {
