@@ -111,6 +111,12 @@ section {
     float: left;
 }
 
+.exp-inst-noyear {
+    width: 80%;
+    height: auto;
+    float: left;
+}
+
 .exp-inst {
     width: 50%;
     height: auto;
@@ -164,4 +170,38 @@ a:hover {
 a:active {
     text-decoration: none;
     color: var(--caugreen);
+}
+
+@media (max-width: 1024px) {
+    .container {
+        font-size: xx-large;
+    }
+    nav {
+        font-size: xx-large;
+    }
+    .photo {
+        clear: none;
+        width: 50%;
+        float: none;
+    }
+    .intro {
+        clear: none;
+        width: auto;
+        float: left;
+        margin: 0 auto;
+    }
+    .exp-inst {
+        width: auto;
+    }
+    .exp-year {
+        width: auto;
+        font-size: xx-large;
+    }
+    .proj-year {
+        width: 100%;
+        font-size: xx-large;
+    }
+    .proj-content {
+        width: 100%;
+    }
 }
