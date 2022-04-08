@@ -17,7 +17,7 @@ body {
 }
 
 .publications {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, '宋体';
     /* font-size: xx-large; */
 }
 
@@ -75,6 +75,17 @@ section {
     height: auto;
     display: inline-block;
     clear: both;
+    font-family: "Times New Roman", "楷体";
+    /* border: 2px solid rgb(255, 0, 0); */
+}
+
+.container-member {
+    width: 100%;
+    height: auto;
+    display: inline-block;
+    clear: both;
+    margin-top: 0.5em;
+    margin-bottom: 3em;
     font-family: "Times New Roman", "楷体";
     /* border: 2px solid rgb(255, 0, 0); */
 }
@@ -172,10 +183,14 @@ a:active {
     color: var(--caugreen);
 }
 
-@media (max-width: 1024px) {
+@media (max-device-width: 1024px) {
     .container {
         font-size: xx-large;
     }
+
+    .container-member {
+        font-size: large;
+    }    
     nav {
         font-size: xx-large;
     }
@@ -192,10 +207,11 @@ a:active {
     }
     .exp-inst {
         width: auto;
+        font-size: auto;
     }
     .exp-year {
         width: auto;
-        font-size: xx-large;
+        font-size: auto;
     }
     .proj-year {
         width: 100%;
@@ -203,5 +219,8 @@ a:active {
     }
     .proj-content {
         width: 100%;
+    }
+    h1 {
+        font-size: x-large;
     }
 }
