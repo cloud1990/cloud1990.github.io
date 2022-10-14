@@ -2,7 +2,7 @@
 title: "Members"
 layout: gridlay
 sitemap: false
-permalink: /Members/
+permalink: /members/
 ---
 
  **招生专业：水利工程、农业水土工程、土木水利（专硕）、能源动力（专硕）<br>研究方向：生态水动力学、计算流体动力学等<br>招生人数：硕士生2人/年<br>E-mail: ycxu@cau.edu.cn; ycxu1990@gmail.com**
