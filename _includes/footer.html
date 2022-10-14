@@ -1,0 +1,31 @@
+<br/>
+<section id="footer">
+<div class="container-footer">
+  <div class="panel-footer">
+	  <div class="row">
+		<div class="col-sm-4">
+		    <h5>所属单位<br/>Affiliation</h5>	
+            <p>{{ site.affiliation }}</p>
+		</div>
+
+		<div class="col-sm-4">
+		    <h5>联系方式<br/>Contact</h5>	
+            <p>{{ site.contact }}</p>
+		</div>
+
+		<div class="col-sm-3">
+		    <h5>办公地点<br/>Office Site</h5>	
+            <p>{{ site.location }}</p>
+		</div>
+	  </div>
+
+      <center><p>&copy {{ "now" | date: "%Y" }} {{site.title | escape }} </p></center>
+	</div>
+  </div>
+</div>
+
+<script src="{{ "/assets/javascript/bootstrap/jquery.min.js" | relative_url }}"></script>
+<!-- <script src="{{ "/assets/javascript/popper/dist/umd/popper.min.js" | relative_url }}"></script> -->
+<script src="{{ "/assets/javascript/bootstrap/bootstrap.bundle.min.js" | relative_url }}"></script>
+<!-- <script src="{{ "/assets/javascript/shb.js" | relative_url }}"></script> -->
+
