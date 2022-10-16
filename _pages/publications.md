@@ -30,15 +30,18 @@ ol li{
 所有共同第一作者均加注上标“#”字样，通讯作者及共同通讯作者均加注上标“*”字样
 <ol reversed="reversed">
         <li>
+            X. Wang, <b><u>Y. Xu</u></b><sup>*</sup>, H. Yan, H. Tan, and L. Zhou. Spray Characteristics and Parameter Optimization of Orifice Arrangement for Micro-Sprinkling Hoses，<i>Water</i>，2022，14, 3260.
+        </li>
+        <li>
             汪小珊，<b><u>徐云成</u></b><sup>*</sup>，严海军，周凌九，檀海斌. 微喷带喷孔水量分布模型构建，<i>农业工程学报</i>，2022，38(10): 93-101.
         </li>
         <li> X. Hui， X. Lin, Y. Zhao, M. Xue, Y. Zhuo, H. Guo, <b><u>Y. Xu</u></b>, H. Yan<sup>*</sup>. Assessing water distribution characteristics of a variable-rate irrigation system, <i>Agricultural Water Management</i>, 2022, 260: 107276.
         </li>
         <li>
-             Y. Song, <b><u>Y. Xu</u></b>, H. Ismail, X. Liu<sup>*</sup>. Scour modeling based on immersed boundary method: A pathway to practical use of three-dimensional scour models, <i>Coastal Engineering</i>,2022:104037.
+             Y. Song, <b><u>Y. Xu</u></b>, H. Ismail, X. Liu<sup>*</sup>. Scour modeling based on immersed boundary method: A pathway to practical use of three-dimensional scour models, <i>Coastal Engineering</i>, 2022:104037.
         </li>
         <li>
-            Y.G. Lai<sup>*</sup>, D. Smith, D. Bandrowski, <b><u>Y. Xu</u></b>, C. Woodley, K. Schnell. Development of a CFD model and procedure for flows through in-stream structures, <i>Journal of Applied Water Engineering and Research</i>,2021.
+            Y.G. Lai<sup>*</sup>, D. Smith, D. Bandrowski, <b><u>Y. Xu</u></b>, C. Woodley, K. Schnell. Development of a CFD model and procedure for flows through in-stream structures, <i>Journal of Applied Water Engineering and Research</i>, 2021.
         </li>
         <li> X. Hui, H. Yan<sup>*</sup>, <b><u>Y. Xu</u></b>, H. Tan. Sprinkler droplet impact angle affects shear stress distribution on soil surface - A case study of a ball-driven sprinkler, <i>Water Science and Technology: Water Supply</i>, 2021,
                     21(6): 2772-2785.
