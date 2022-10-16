@@ -42,6 +42,9 @@ nav_pages:
   - name: 
       name1: publications
       name2: 学术论文
+  - name: 
+      name1: openings
+      name2: 招生信息
 #  - name: publications
 #  - name: talks
 #  - name: research

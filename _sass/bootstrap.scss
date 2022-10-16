@@ -11,9 +11,10 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
-@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap");
+//@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap");
 :root {
   --blue: #375a7f;
+  
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -41,6 +42,26 @@
   --breakpoint-xl: 1200px;
   --font-family-sans-serif: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+
+  --caugreen: #00873c;
+  --caulightgreen: rgb(167,211,152);
+  --cauheavygreen: rgb(0,61,22);
+  --causmartblue: rgb(0,73,94);
+  --caulightblue: rgb(0,135,169);
+  --cauverylightblue: rgb(173,200,202);
+
+  --caugold1: rgb(162,98,42);
+  --caugold2: rgb(151,108,8);
+  --caugold3: rgb(248,182,45);
+  --caugold4: rgb(219,204,174);
+
+  --caured1: rgb(94,0,11);
+  --caured2: rgb(199,0,63);
+  --caured3: rgb(216,33,13);
+
+  --caugrey1: rgb(159,160,160);
+  --caugrey2: rgb(201,202,202);
+  --caugrey3: rgb(239,239,239);
 }
 
 *,
@@ -70,6 +91,8 @@ body {
   color: #fff;
   text-align: left;
   background-color: #222;
+  color: var(--caugreen);
+  background-color: var(--caugold4);
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -163,12 +186,14 @@ sup {
 
 a {
   color: #00bc8c;
+  color: var(--caugreen);
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
   color: #007053;
+  color: var(--cauheavygreen);
   text-decoration: underline;
 }
 
@@ -5039,6 +5064,57 @@ input[type="button"].btn-block {
   color: #fff;
 }
 
+
+.navbar-green .navbar-brand {
+  color: #fff;
+}
+
+.navbar-green .navbar-brand:hover, .navbar-green .navbar-brand:focus {
+  color: #fff;
+}
+
+.navbar-green .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 1);
+  color: var(--caugrey3);
+}
+
+.navbar-green .navbar-nav .nav-link:hover, .navbar-green .navbar-nav .nav-link:focus {
+  color: #fff;
+}
+
+.navbar-green .navbar-nav .nav-link.disabled {
+  color: rgba(255, 255, 255, 0.75);
+  color: var(--caugrey2);
+}
+
+.navbar-green .navbar-nav .show > .nav-link,
+.navbar-green .navbar-nav .active > .nav-link,
+.navbar-green .navbar-nav .nav-link.show,
+.navbar-green .navbar-nav .nav-link.active {
+  color: #fff;
+}
+
+.navbar-green .navbar-toggler {
+  color: rgba(255, 255, 255, 1);
+  border-color: rgba(255, 255, 255, 1);
+}
+
+.navbar-green .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.6%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.navbar-green .navbar-text {
+  color: rgba(255, 255, 255, 1);
+}
+
+.navbar-green .navbar-text a {
+  color: #fff;
+}
+
+.navbar-green .navbar-text a:hover, .navbar-green .navbar-text a:focus {
+  color: #fff;
+}
+
 .card {
   position: relative;
   display: -webkit-box;
@@ -5604,6 +5680,8 @@ a.badge-dark:focus, a.badge-dark.focus {
   margin-bottom: 2rem;
   background-color: #303030;
   border-radius: 0.3rem;
+  background-color: var(--cauheavygreen);
+  color: var(--caugrey2);
 }
 
 @media (min-width: 576px) {
@@ -7205,6 +7283,26 @@ button.bg-dark:focus {
 
 .bg-transparent {
   background-color: transparent !important;
+}
+
+.bg-heavygreen {
+  background-color: var(--cauheavygreen) !important;
+}
+
+a.bg-heavygreen:hover, a.bg-heavygreen:focus,
+button.bg-heavygreen:hover,
+button.bg-heavygreen:focus {
+  background-color: var(--cauheavygreen) !important;
+}
+
+.bg-green {
+  background-color: var(--caugreen) !important;
+}
+
+a.bg-green:hover, a.bg-green:focus,
+button.bg-green:hover,
+button.bg-green:focus {
+  background-color: var(--caugreen) !important;
 }
 
 .border {

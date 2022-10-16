@@ -7,6 +7,18 @@ permalink: /
 
 ### 研究问题 Scope
 
+<video
+      id="my-video"
+      class="video-js"
+      muted
+      autoplay
+      loop
+      width="100%"
+      style="background: #000;mix-blend-mode:multiply;"
+      >
+      <source src="{{site.url}}{{site.baseurl}}/images/teampic/ELJ.mp4" type="video/mp4" />
+    </video>
+
 生态水动力学课题组（Eco-Hydro Group）是由中国农业大学徐云成博士负责，主要关注水利工程、农业工程、环境工程等研究领域中的生物（动物/植物）习性-水动力环境耦合相关的科学问题和工程问题，具体问题包括但不限于输调水工程生物污损、微灌系统灌水器堵塞、喷灌引起的冠层截留、灌溉影响下的作物生长模型等。
             <br> <br> 我们主要使用理论建模和基于OpenFOAM的数值计算方法，辅以试验手段，与生态行为学、农业工程等方面的研究者合作，在复杂自然条件或人造工程中，探索动物、植物、微生物与水环境发生的物质交换、动量传递等过程，揭示其中的水动力学机理，对生物的生理结构奥秘和运动行为规律做出解释，为输调水系统、灌溉系统、河道生态修复等工程设计以及仿生机械设计提供理论依据和技术指导。
             <br><br> The Eco-Hydrodynamics Group (Eco-Hydro Group) is led by Dr. Yuncheng Xu at China Agricultural University (CAU). We mainly focus on the scientific questions and engineering problems related to the coupling between biological (animal/plant)

@@ -5,8 +5,6 @@ sitemap: false
 permalink: /members/
 ---
 
- **招生专业：水利工程、农业水土工程、土木水利（专硕）、能源动力（专硕）<br>研究方向：生态水动力学、计算流体动力学等<br>招生人数：硕士生2人/年<br>E-mail: ycxu@cau.edu.cn; ycxu1990@gmail.com**
-
 <!--- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
 ## 教师 Faculty
@@ -14,16 +12,16 @@ permalink: /members/
 {% for member in site.data.pi %}
 
 <div class="row">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="18%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="18%" style="border-radius:10%;float: left;background: #000;mix-blend-mode:multiply;" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i><br>
 
   {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-2x"></i></a> {% endif %}
   {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %}
   {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %}
-  {% if member.cv %} <a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %}
   {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %}
   {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-2x"></i></a> {% endif %}
+  {% if member.cv %} <a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %}
   <ul style="overflow: hidden">
 <br>
   <li> {{ member.education1 }} </li><br>
@@ -51,7 +49,7 @@ permalink: /members/
 
 <div class="col-sm-6 clearfix">
 <br>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%"  style="border-radius:10%;float: left;background: #000;mix-blend-mode:multiply;" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br></i>
   {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-2x"></i></a> {% endif %}
@@ -123,7 +121,7 @@ permalink: /members/
 
 <div class="col-sm-6 clearfix">
 <br>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%"  style="border-radius:10%;float: left;background: #000;mix-blend-mode:multiply;" />
   <h4>{{ member.name}}<br>({{ member.duration}})</h4>
   <i>{{ member.info }}<br></i>
   {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-2x"></i></a> {% endif %}
