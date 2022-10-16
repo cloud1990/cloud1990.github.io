@@ -5,7 +5,7 @@ sitemap: false
 permalink: /openings/
 ---
 
-## 招生信息 Openings
+### 招生信息 Openings
 <br>
 <p style="color :var(--caured3); font-size: 1.5rem;">
 如果你对大自然有着纯粹的热爱和好奇，<br>
