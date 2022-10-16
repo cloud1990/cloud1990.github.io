@@ -16,7 +16,7 @@ permalink: /
       width="100%"
       style="background: #000;mix-blend-mode:multiply;"
       >
-      <source src="{{site.url}}{{site.baseurl}}/images/teampic/ELJ_ss.mp4" type="video/mp4" />
+      <source src="{{site.url}}{{site.baseurl}}/images/teampic/ELJ_s.mp4" type="video/mp4" />
     </video>
 
 生态水动力学课题组（Eco-Hydro Group）是由中国农业大学徐云成博士负责，主要关注水利工程、农业工程、环境工程等研究领域中的生物（动物/植物）习性-水动力环境耦合相关的科学问题和工程问题，具体问题包括但不限于输调水工程生物污损、微灌系统灌水器堵塞、喷灌引起的冠层截留、灌溉影响下的作物生长模型等。
