@@ -30,7 +30,8 @@ ol li{
 所有共同第一作者均加注上标“#”字样，通讯作者及共同通讯作者均加注上标“*”字样
 <ol reversed="reversed">
         <li>
-            X. Wang, <b><u>Y. Xu</u></b><sup>*</sup>, H. Yan, H. Tan, and L. Zhou. Spray Characteristics and Parameter Optimization of Orifice Arrangement for Micro-Sprinkling Hoses，<i>Water</i>，2022，14, 3260.
+            X. Wang, <b><u>Y. Xu</u></b><sup>*</sup>, H. Yan, H. Tan, and L. Zhou. Spray Characteristics and Parameter Optimization of Orifice Arrangement for Micro-Sprinkling Hoses，<i>Water</i>，2022，14, 3260. 
+         <a1 href="https://www.mdpi.com/2073-4441/14/20/3260/pdf" target="_blank"><i class="fa fa-file-pdf-o" style="font-size:1.5em;"></i></a1>
         </li>
         <li>
             汪小珊，<b><u>徐云成</u></b><sup>*</sup>，严海军，周凌九，檀海斌. 微喷带喷孔水量分布模型构建，<i>农业工程学报</i>，2022，38(10): 93-101.

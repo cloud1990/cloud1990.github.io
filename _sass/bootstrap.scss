@@ -193,8 +193,9 @@ a {
 
 a:hover {
   color: #007053;
-  color: var(--cauheavygreen);
+  color: var(--caugreen);
   text-decoration: underline;
+  font-weight: 800;
 }
 
 a:not([href]):not([class]) {
@@ -203,6 +204,30 @@ a:not([href]):not([class]) {
 }
 
 a:not([href]):not([class]):hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+a1 {
+  color: var(--caugold2);
+  text-decoration: none;
+  background-color: transparent;
+  margin-left: 2em;
+}
+
+a1:hover {
+  color: #007053;
+  color: var(--caugold3);
+  text-decoration: underline;
+  font-weight: 800;
+}
+
+a1:not([href]):not([class]) {
+  color: inherit;
+  text-decoration: none;
+}
+
+a1:not([href]):not([class]):hover {
   color: inherit;
   text-decoration: none;
 }
