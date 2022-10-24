@@ -30,6 +30,9 @@ ol li{
 所有共同第一作者均加注上标“#”字样，通讯作者及共同通讯作者均加注上标“*”字样
 <ol reversed="reversed">
         <li>
+            <b><u>Y. Xu</u></b> and X. Liu<sup>*</sup>. CFD-based evaluation and verification of FISP suspended sediment samplers, <i> ASCE Journal of Irrigation and Drainage Engineering</i>, 2022. (Accepted)
+        </li>
+        <li>
             X. Wang, <b><u>Y. Xu</u></b><sup>*</sup>, H. Yan, H. Tan, and L. Zhou. Spray Characteristics and Parameter Optimization of Orifice Arrangement for Micro-Sprinkling Hoses，<i>Water</i>，2022，14, 3260. 
          <a1 href="https://www.mdpi.com/2073-4441/14/20/3260/pdf" target="_blank"><i class="fa fa-file-pdf-o" style="font-size:1.5em;"></i></a1>
         </li>
@@ -76,6 +79,12 @@ ol li{
         </li>
         <li>
             <b><u>Y. Xu</u></b>, Y. Chen, J. He, and H. Yan<sup>*</sup>. Detection of cavitation in a Venturi injector with a combined method of strain gauges and numerical simulation, <i>Journal of Fluids Engineering</i>, 2014, 136(8): 081302.
+        </li>
+        <li>
+            严海军<sup>*</sup>，陈燕，初晓一，<b><u>徐云成</u></b>，王志鹏. 文丘里施肥器结构参数优化对吸肥性能的影响，<i>排灌机械工程学报</i>，2013,31(2): 162-166.
+        </li>
+        <li>
+            严海军<sup>*</sup>，陈燕，<b><u>徐云成</u></b>，王志鹏. 文丘里施肥器的空化特性试验研究，<i>排灌机械工程学报</i>，2013,31(8): 724-728.
         </li>
 </ol>
 </div>
