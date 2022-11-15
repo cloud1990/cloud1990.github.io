@@ -28,5 +28,6 @@ permalink: /courses/
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/Academic_Writing_1.pdf" target="_blank" style="color:white;">Academic_Writing_1.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/HW1.pdf" target="_blank" style="color:white;">HW1.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/Academic_Writing_2.pdf" target="_blank" style="color:white;">Academic_Writing_2.pdf</a>
+<br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/2021《能源与动力工程专业英语》试题.pdf" target="_blank" style="color:white;">2021《能源与动力工程专业英语》试题.pdf</a>
 </div>
 
