@@ -16,6 +16,7 @@ permalink: /courses/
 </style>
 
 ### 《能源与动力工程专业英语》
+<!--
 <div class="jumbotron">
 <b>2022年春季学期PPT下载</b>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/Chap0_Intro.pdf" target="_blank" style="color:white;">Chap0_Intro.pdf</a>
@@ -33,4 +34,4 @@ permalink: /courses/
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/Pump.pdf" target="_blank" style="color:white;">Pump.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/Technical_Terms.pdf" target="_blank" style="color:white;">Technical_Terms.pdf</a>
 </div>
-
+-->
