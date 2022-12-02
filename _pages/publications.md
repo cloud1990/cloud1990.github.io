@@ -30,7 +30,7 @@ ol li{
 所有共同第一作者均加注上标“#”字样，通讯作者及共同通讯作者均加注上标“*”字样
 <ol reversed="reversed">
         <li>
-            <b><u>Y. Xu</u></b> and X. Liu<sup>*</sup>. Computational Fluid Dynamics-based evaluation and verification of FISP suspended sediment samplers, <i> ASCE Journal of Irrigation and Drainage Engineering</i>, 2022, 148(12):04022043.
+            <b><u>Y. Xu</u></b> and X. Liu<sup>*</sup>. Computational Fluid Dynamics-based evaluation and verification of FISP suspended sediment samplers, <i> ASCE Journal of Irrigation and Drainage Engineering</i>, 2022, 148(12):04022043.(selected to Editor's Choice Collections)
         </li>
         <li>
             X. Wang, <b><u>Y. Xu</u></b><sup>*</sup>, H. Yan, H. Tan, and L. Zhou. Spray Characteristics and Parameter Optimization of Orifice Arrangement for Micro-Sprinkling Hoses，<i>Water</i>，2022，14, 3260. 
