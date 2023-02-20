@@ -35,3 +35,6 @@ permalink: /courses/
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/Technical_Terms.pdf" target="_blank" style="color:white;">Technical_Terms.pdf</a>
 </div>
 -->
+### 《能源与动力工程专业英语》
+<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_1.pdf" target="_blank" style="color:white;">chap_1.pdf</a>
+<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/hw_1.pdf" target="_blank" style="color:white;">hw_1.pdf</a>
