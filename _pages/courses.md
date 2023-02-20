@@ -40,6 +40,8 @@ permalink: /courses/
 <b>2023年春季学期PPT下载</b>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_1.pdf" target="_blank" style="color:white;">chap_1.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/hw_1.pdf" target="_blank" style="color:white;">hw_1.pdf</a>
-<code>$ jekyll serve -P 5555
-</code>
+<pre><code>$ jekyll serve -P 5555
+</code></pre>
+<pre><code>$ jekyll serve -P 5555
+</code></pre>
 </div>
