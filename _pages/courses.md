@@ -42,23 +42,19 @@ permalink: /courses/
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/hw_1.pdf" target="_blank" style="color:white;">hw_1.pdf</a>
 ##OpenFOAM从源代码进行编译
 新建文件夹，并进入该文件夹
-<pre><code>
+<code>
 mkdir $HOME/OpenFOAM
-</code></pre>
-<pre><code>
+</code><code>
 cd $HOME/OpenFOAM
-</code></pre>
+</code>
 下载并解压缩源文件
-<pre><code>
+<code>
 wget -O - http://dl.openfoam.org/source/8 | tar xvz
-</code></pre>
-<pre><code>
+</code><code>
 wget -O - http://dl.openfoam.org/third-party/8 | tar xvz
-</code></pre>
-<pre><code>
+</code><code>
 git clone https://gitee.com/cfdxu/OpenFOAM-8
-</code></pre>
-<pre><code>
+</code><code>
 git clone https://gitee.com/cfdxu/ThirdParty-8
-</code></pre>
+</code>
 </div>
