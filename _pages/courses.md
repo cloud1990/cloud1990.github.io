@@ -18,7 +18,7 @@ permalink: /courses/
 ### 《能源与动力工程专业英语》
 <!--
 <div class="jumbotron">
-<b>2022年春季学期PPT下载</b>
+<b>2022年秋季学期PPT下载</b>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/Chap0_Intro.pdf" target="_blank" style="color:white;">Chap0_Intro.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/Chap1_Fluid_Mechanics_Intro.pdf" target="_blank" style="color:white;">Chap1_Fluid_Mechanics_Intro.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/Chap2_Cartesian_Tensors.pdf" target="_blank" style="color:white;">Chap2_Cartesian_Tensors.pdf</a>
@@ -35,6 +35,11 @@ permalink: /courses/
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/Technical_Terms.pdf" target="_blank" style="color:white;">Technical_Terms.pdf</a>
 </div>
 -->
-### 《能源与动力工程专业英语》
+### 《计算流体动力学编程实践》
+<div class="jumbotron">
+<b>2023年春季学期PPT下载</b>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_1.pdf" target="_blank" style="color:white;">chap_1.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/hw_1.pdf" target="_blank" style="color:white;">hw_1.pdf</a>
+<code>$ jekyll serve -P 5555
+</code>
+</div>
