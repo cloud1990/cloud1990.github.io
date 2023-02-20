@@ -40,8 +40,25 @@ permalink: /courses/
 <b>2023年春季学期PPT下载</b>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_1.pdf" target="_blank" style="color:white;">chap_1.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/hw_1.pdf" target="_blank" style="color:white;">hw_1.pdf</a>
-<pre><code>$ jekyll serve -P 5555
+##OpenFOAM从源代码进行编译
+新建文件夹，并进入该文件夹
+<pre><code>
+mkdir $HOME/OpenFOAM
 </code></pre>
-<pre><code>$ jekyll serve -P 5555
+<pre><code>
+cd $HOME/OpenFOAM
+</code></pre>
+下载并解压缩源文件
+<pre><code>
+wget -O - http://dl.openfoam.org/source/8 | tar xvz
+</code></pre>
+<pre><code>
+wget -O - http://dl.openfoam.org/third-party/8 | tar xvz
+</code></pre>
+<pre><code>
+git clone https://gitee.com/cfdxu/OpenFOAM-8
+</code></pre>
+<pre><code>
+git clone https://gitee.com/cfdxu/ThirdParty-8
 </code></pre>
 </div>
