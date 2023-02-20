@@ -37,24 +37,63 @@ permalink: /courses/
 -->
 ### 《计算流体动力学编程实践》
 <div class="jumbotron">
-<b>2023年春季学期PPT下载</b>
+#### <b>2023年春季学期PPT下载</b>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_1.pdf" target="_blank" style="color:white;">chap_1.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/hw_1.pdf" target="_blank" style="color:white;">hw_1.pdf</a>
-##OpenFOAM从源代码进行编译
+</div>
+<div class="jumbotron">
+#### <b>OpenFOAM从源代码进行编译</b>
 新建文件夹，并进入该文件夹
-<code>
+<br><code>
 mkdir $HOME/OpenFOAM
-</code><code>
+<br>
 cd $HOME/OpenFOAM
 </code>
-下载并解压缩源文件
-<code>
+<br>下载并解压缩源文件
+<br><code>
 wget -O - http://dl.openfoam.org/source/8 | tar xvz
-</code><code>
+<br>
 wget -O - http://dl.openfoam.org/third-party/8 | tar xvz
-</code><code>
+<br>
 git clone https://gitee.com/cfdxu/OpenFOAM-8
-</code><code>
+<br>
 git clone https://gitee.com/cfdxu/ThirdParty-8
 </code>
+<br>
+更改文件名(特定)
+<br><code>
+mv OpenFOAM-8-version-8 OpenFOAM-8
+mv ThirdParty-8-version-8 ThirdParty-8
+</code>
+<br>
+将以下一行写入<code>$HOME/.bashrc</code>最后一行，然后运行<code>source $HOME/.bashrc</code>
+<br><code>
+source $HOME/OpenFOAM/OpenFOAM-8/etc/bashrc
+</code>
+<br>
+编译前安装必要软件 Ubuntu 18.04及以上（注意复制时可能出现断行）
+<br><code>
+sudo apt-get install build-essential flex bison git-core cmake zlib1g-dev libboost-system-dev libboost-thread-dev libopenmpi-dev openmpi-bin gnuplot libreadline-dev libncurses-dev libxt-dev
+</code>
+<br>
+进入Openfoam-8，进行编译，<code>-j</code>指编译时调用所有线程 ,<code>-j4</code>指调用4线程
+<br><code>
+foam
+./Allwmake -j
+</code>
+<br>验证是否可行，<code>run</code>等效于<code>cd $FOAM_RUN</code>
+<br><code>
+mkdir -p $FOAM_RUN
+<br>
+run
+<br>
+cp -r $FOAM_TUTORIALS/incompressible/icoFoam/cavity/cavity cavity
+<br>
+cd cavity
+<br>
+blockMesh
+<br>
+icoFoam
+</code>
+<br>
 </div>
