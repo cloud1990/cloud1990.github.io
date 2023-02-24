@@ -38,8 +38,17 @@ permalink: /courses/
 ### 《计算流体动力学编程实践》
 <div class="jumbotron">
 #### <b>2023年春季学期PPT下载</b>
-<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_1.pdf" target="_blank" style="color:white;">chap_1.pdf</a>
+<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_1（更新）.pdf" target="_blank" style="color:white;">chap_1（更新）.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/hw_1.pdf" target="_blank" style="color:white;">hw_1.pdf</a>
+</div>
+<div class="jumbotron">
+#### <b>重要时间节点</b>
+开题答辩(5 min PPT+5 min 讨论) 3月14日（第4周）
+<br>中期答辩(5 min PPT+5 min 讨论) 4月4日（第7周）
+<br>结题答辩(10 min PPT+5 min 讨论) 4月25日（第10周）
+<br>提交论文截止时间 5月15日(要求同时提交纸质版和电子版)
+#### <b>上课时间、地点</b>
+周二 第5-8节（第1-10周），主楼402
 </div>
 <div class="jumbotron">
 #### <b>OpenFOAM从源代码进行编译</b>
