@@ -40,6 +40,10 @@ permalink: /courses/
 #### <b>2023年春季学期PPT下载</b>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_1（更新）.pdf" target="_blank" style="color:white;">chap_1（更新）.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/hw_1.pdf" target="_blank" style="color:white;">hw_1.pdf</a>
+<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2_fluids.pdf" target="_blank" style="color:white;">chap_2_fluids.pdf</a>
+<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2_code_structure.pdf" target="_blank" style="color:white;">chap_2_code_structure.pdf</a>
+<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2_diffusion.pdf" target="_blank" style="color:white;">chap_2_diffusion.pdf</a>
+<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2_boundary_conditions.pdf" target="_blank" style="color:white;">chap_2_boundary_conditions.pdf</a>
 </div>
 <div class="jumbotron">
 #### <b>重要时间节点</b>
