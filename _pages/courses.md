@@ -47,6 +47,8 @@ permalink: /courses/
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_3_blockMesh.pdf" target="_blank" style="color:white;">chap_3_blockMesh.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/hw_2.pdf" target="_blank" style="color:white;">hw_2.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_4_solvers.pdf" target="_blank" style="color:white;">chap_4_solvers.pdf</a>
+<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_5_turbulence.pdf" target="_blank" style="color:white;">chap_5_turbulence.pdf</a>
+<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_5_wall_functions.pdf" target="_blank" style="color:white;">chap_5_wall_functions.pdf</a>
 </div>
 <div class="jumbotron">
 #### <b>重要时间节点</b>
