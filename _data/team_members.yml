@@ -8,15 +8,6 @@
   education3: 2013.9-2017.7 <br>本科，西北农林科技大学  <br>Bachelor, Northwest A&F University
 
 
-- name: 金士呈 Shicheng Jin
-  photo: shicheng_jin.jpg
-  info: 河南商丘人，主要从事微喷带流动数值模拟相关研究工作。
-  email: 1441402954@qq.com
-  number_educ: 2
-  education1: 2021.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
-  education2: 2017.9-2021.7 <br>本科，华北水利水电大学  <br>Bachelor, North China University of Water Conservancy and Electric Power
-
-
 - name: 何东洋 Dongyang He
   photo: dongyang_he.jpg
   info: 河北唐山人，主要从事沼蛤滤食水动力学过程相关研究工作。
@@ -34,3 +25,21 @@
   number_educ: 2
   education1: 2022.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
   education2: 2017.9-2021.7 <br>本科，内蒙古农业大学  <br>Bachelor, Inner Mongolia Agricultural University
+
+
+- name: 余丰伟 Fengwei Yu
+  photo: fengwei_yu.jpg
+  info: 河南信阳人。
+  email: 1279050867@qq.com
+  number_educ: 2
+  education1: 2023.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
+  education2: 2019.9-2023.7 <br>本科，华北水利水电大学  <br>Bachelor, North China University of Water Conservancy and Electric Power
+
+
+- name: 乔鸿瑞 Hongrui Qiao
+  photo: hongrui_qiao.jpg
+  info: 四川成都人。
+  email: qhrqhr163@163.com
+  number_educ: 2
+  education1: 2023.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
+  education2: 2019.9-2023.7 <br>本科，华南农业大学  <br>Bachelor, North China University of Water Conservancy and Electric Power
