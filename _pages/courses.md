@@ -16,7 +16,7 @@ permalink: /courses/
 </style>
 
 ### 《能源与动力工程专业英语》
-
+<!--
 <div class="jumbotron">
 <b>2022年秋季学期PPT下载</b>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/Chap0_Intro.pdf" target="_blank" style="color:white;">Chap0_Intro.pdf</a>
@@ -33,14 +33,14 @@ permalink: /courses/
 
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/Academic_Writing_2.pdf" target="_blank" style="color:white;">Academic_Writing_2.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/2021《能源与动力工程专业英语》试题.pdf" target="_blank" style="color:white;">2021《能源与动力工程专业英语》试题.pdf</a>
-<!--
+
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/专业英语教学资料（部分考题出处）.pdf" target="_blank" style="color:white;">专业英语教学资料（部分考题出处）.pdf</a>
--->
+
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/Pump.pdf" target="_blank" style="color:white;">Pump.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/Technical_Terms.pdf" target="_blank" style="color:white;">Technical_Terms.pdf</a>
 
 </div>
-
+-->
 ### 《计算流体动力学编程实践》
 <!--
 <div class="jumbotron">
