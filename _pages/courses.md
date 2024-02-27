@@ -42,30 +42,32 @@ permalink: /courses/
 </div>
 -->
 ### 《计算流体动力学编程实践》
-<!--
+
 <div class="jumbotron">
-#### <b>2023年春季学期PPT下载</b>
-<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_1（更新）.pdf" target="_blank" style="color:white;">chap_1（更新）.pdf</a>
+#### <b>2024年春季学期PPT下载</b>
+<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_1.pdf" target="_blank" style="color:white;">chap_1.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/hw_1.pdf" target="_blank" style="color:white;">hw_1.pdf</a>
-<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2_fluids.pdf" target="_blank" style="color:white;">chap_2_fluids.pdf</a>
-<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2_code_structure.pdf" target="_blank" style="color:white;">chap_2_code_structure.pdf</a>
-<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2_diffusion.pdf" target="_blank" style="color:white;">chap_2_diffusion.pdf</a>
-<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2_boundary_conditions.pdf" target="_blank" style="color:white;">chap_2_boundary_conditions.pdf</a>
+<!--
+<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2.1_fluids.pdf" target="_blank" style="color:white;">chap_2.1_fluids.pdf</a>
+<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2.2_code_structure.pdf" target="_blank" style="color:white;">chap_2.2_code_structure.pdf</a>
+<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2.3_diffusion.pdf" target="_blank" style="color:white;">chap_2.3_diffusion.pdf</a>
+<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2.4_boundary_conditions.pdf" target="_blank" style="color:white;">chap_2.3_boundary_conditions.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_3_blockMesh.pdf" target="_blank" style="color:white;">chap_3_blockMesh.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/hw_2.pdf" target="_blank" style="color:white;">hw_2.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_4_solvers.pdf" target="_blank" style="color:white;">chap_4_solvers.pdf</a>
-<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_5_turbulence.pdf" target="_blank" style="color:white;">chap_5_turbulence.pdf</a>
-<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_5_wall_functions.pdf" target="_blank" style="color:white;">chap_5_wall_functions.pdf</a>
+<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_5.1_turbulence.pdf" target="_blank" style="color:white;">chap_5.1_turbulence.pdf</a>
+<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_5.2_wall_functions.pdf" target="_blank" style="color:white;">chap_5.2_wall_functions.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_6_postProcessing.pdf" target="_blank" style="color:white;">chap_6_postProcessing.pdf</a>
+-->
 </div>
 <div class="jumbotron">
 #### <b>重要时间节点</b>
-开题答辩(5 min PPT+5 min 讨论) 3月14日（第4周）
-<br>中期答辩(5 min PPT+5 min 讨论) 4月4日（第7周）
-<br>结题答辩(10 min PPT+5 min 讨论) 4月25日（第10周）
+开题答辩(5 min PPT+5 min 讨论) 3月21日（第4周）
+<br>中期答辩(5 min PPT+5 min 讨论) 4月11日（第7周）
+<br>结题答辩(10 min PPT+5 min 讨论) 5月9日（第11周）
 <br>提交论文截止时间 5月15日(要求同时提交纸质版和电子版)
 #### <b>上课时间、地点</b>
-周二 第5-8节（第1-10周），主楼204
+周四 第5-8节（第1-11周），主楼209
 </div>
 <div class="jumbotron">
 #### <b>OpenFOAM从源代码进行编译</b>
@@ -123,4 +125,3 @@ icoFoam
 </code>
 <br>
 </div>
--->
