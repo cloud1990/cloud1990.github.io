@@ -49,8 +49,8 @@ permalink: /courses/
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/hw_1.pdf" target="_blank" style="color:white;">hw_1.pdf</a>
 
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2.1_fluids.pdf" target="_blank" style="color:white;">chap_2.1_fluids.pdf</a>
-<!--<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2.2_code_structure.pdf" target="_blank" style="color:white;">chap_2.2_code_structure.pdf</a>
-<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2.3_diffusion.pdf" target="_blank" style="color:white;">chap_2.3_diffusion.pdf</a>
+<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2.2_code_structure.pdf" target="_blank" style="color:white;">chap_2.2_code_structure.pdf</a>
+<!--<br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2.3_diffusion.pdf" target="_blank" style="color:white;">chap_2.3_diffusion.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2.4_boundary_conditions.pdf" target="_blank" style="color:white;">chap_2.3_boundary_conditions.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_3_blockMesh.pdf" target="_blank" style="color:white;">chap_3_blockMesh.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/hw_2.pdf" target="_blank" style="color:white;">hw_2.pdf</a>
@@ -77,23 +77,26 @@ mkdir $HOME/OpenFOAM
 <br>
 cd $HOME/OpenFOAM
 </code>
+<br>利用git clone下载源文件
+<br>
+<code>
+git clone https://gitee.com/cfdxu/OpenFOAM-8
+<br>
+git clone https://gitee.com/cfdxu/ThirdParty-8
+</code>
+<!--
 <br>下载并解压缩源文件
 <br><code>
 wget -O - http://dl.openfoam.org/source/8 | tar xvz
 <br>
 wget -O - http://dl.openfoam.org/third-party/8 | tar xvz
 <br>
-git clone https://gitee.com/cfdxu/OpenFOAM-8
-<br>
-git clone https://gitee.com/cfdxu/ThirdParty-8
-</code>
-<br>
 更改文件名(特定)
-<br><code>
 mv OpenFOAM-8-version-8 OpenFOAM-8
 <br>
 mv ThirdParty-8-version-8 ThirdParty-8
 </code>
+-->
 <br>
 将以下一行写入<code>$HOME/.bashrc</code>最后一行，然后运行<code>source $HOME/.bashrc</code>
 <br><code>
@@ -108,6 +111,7 @@ sudo apt-get install build-essential flex bison git-core cmake zlib1g-dev libboo
 进入Openfoam-8，进行编译，<code>-j</code>指编译时调用所有线程 ,<code>-j4</code>指调用4线程
 <br><code>
 foam
+<br>
 ./Allwmake -j
 </code>
 <br>验证是否可行，<code>run</code>等效于<code>cd $FOAM_RUN</code>
