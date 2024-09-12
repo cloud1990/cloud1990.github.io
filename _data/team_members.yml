@@ -1,13 +1,3 @@
-- name: 汪小珊 Xiaoshan Wang
-  photo: xiaoshan_wang.jpg
-  info: 陕西安康人，主要从事微喷带、射流泵等相关研究工作。
-  email: wangxiaoshan1019@163.com
-  number_educ: 3
-  education1: 2019.7-至今 <br>在读博士生，中国农业大学 <br>（与<a href="http://water.cau.edu.cn/art/2011/11/11/art_45756_856547.html" target="_blank">周凌久教授</a>、<a href="http://faculty.cau.edu.cn/slytmgcxy/yhj/list.htm" target="_blank">严海军教授</a>合作指导）<br>Ph.D. Candidate, China Agricultural University <br>Co-advised by Prof. Zhou & Prof. Yan
-  education2: 2017.8-2019.7 <br>硕士，中国农业大学  <br>Master, China Agricultural University <br>(with <a href="http://water.cau.edu.cn/art/2011/11/11/art_45756_856547.html" target="_blank">周凌久教授</a>)
-  education3: 2013.9-2017.7 <br>本科，西北农林科技大学  <br>Bachelor, Northwest A&F University
-
-
 - name: 何东洋 Dongyang He
   photo: dongyang_he.jpg
   info: 河北唐山人，主要从事渠道流量反演相关研究工作。
@@ -49,24 +39,24 @@
   info: 辽宁阜新人。
   email: 571177960@qq.com
   number_educ: 2
-  education1: 2023.10-至今 <br>保研，中国农业大学 <br>Future Master Student, China Agricultural University
-  education2: 2020.9-至今 <br>在读本科生，三峡大学  <br>Bachelor Student, China Three Gorges University
+  education1: 2024.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
+  education2: 2020.9-2024.7 <br>本科，三峡大学  <br>Bachelor, China Three Gorges University
 
 - name: 黄雨璇 Yuxuan Huang
   photo: yuxuan_huang.jpg
   info: 湖南永州人。
   email: hyxjob@1118.com
   number_educ: 2
-  education1: 2024.4-至今 <br>考研录取，中国农业大学 <br>Future Master Student, China Agricultural University
-  education2: 2020.9-至今 <br>在读本科生，南京农业大学  <br>Bachelor Student, Nanjing Agricultural University
+  education1: 2024.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
+  education2: 2020.9-2024.7 <br>本科，南京农业大学  <br>Bachelor, Nanjing Agricultural University
 
 - name: 乔蔚荧 Weiying Qiao
   photo: weiying_qiao.jpg
   info: 山西运城人。
   email: qiaoweiying2024@163.com
   number_educ: 2
-  education1: 2024.4-至今 <br>考研录取，中国农业大学 <br>Future Master Student, China Agricultural University
-  education2: 2020.9-至今 <br>在读本科生，太原理工大学  <br>Bachelor Student, Taiyuan University of Technology
+  education1: 2024.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
+  education2: 2020.9-2024.7 <br>本科，太原理工大学  <br>Bachelor, Taiyuan University of Technology
   
 - name: 虞婧渭 Weijing Yu
   photo: weijing_yu.jpg
