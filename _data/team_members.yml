@@ -1,6 +1,6 @@
 - name: 何东洋 Dongyang He
   photo: dongyang_he.jpg
-  info: 河北唐山人，主要从事渠道流量反演相关研究工作。
+  info: 河北唐山人，主要从事农田小气候监测研究。
   email: hdysyau@163.com
   number_educ: 3
   education1: 2022.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
@@ -28,7 +28,7 @@
 
 - name: 乔鸿瑞 Hongrui Qiao
   photo: hongrui_qiao.jpg
-  info: 四川成都人，主要从事大型喷灌机变量灌溉协调控制模型研究工作。
+  info: 四川成都人，主要从事管道内水肥混合运移研究。
   email: qhrqhr163@163.com
   number_educ: 2
   education1: 2023.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
@@ -36,7 +36,7 @@
   
 - name: 许添一 Tianyi Xu
   photo: tianyi_xu.jpg
-  info: 辽宁阜新人。
+  info: 辽宁阜新人，主要从事基于代理模型的渠道流量反演相关研究工作。
   email: 571177960@qq.com
   number_educ: 2
   education1: 2024.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
@@ -58,10 +58,10 @@
   education1: 2024.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
   education2: 2020.9-2024.7 <br>本科，太原理工大学  <br>Bachelor, Taiyuan University of Technology
   
-- name: 虞婧渭 Weijing Yu
-  photo: weijing_yu.jpg
-  info: 江苏张家港人，从事底栖动物水动力学相关研究。
-  email: 
-  number_educ: 1
-  education1: 2022.9-至今 <br>在读本科生，中国农业大学  <br>Bachelor Student, China Agricultural University
+#- name: 虞婧渭 Weijing Yu
+  #photo: weijing_yu.jpg
+  #info: 江苏张家港人，从事底栖动物水动力学相关研究。
+  #email: 
+  #number_educ: 1
+  #education1: 2022.9-至今 <br>在读本科生，中国农业大学  <br>Bachelor Student, China Agricultural University
   
