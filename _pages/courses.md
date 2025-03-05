@@ -16,8 +16,9 @@ permalink: /courses/
 </style>
 
 ### 《能源与动力工程专业英语》
-<!--
+
 <div class="jumbotron">
+<!--
 <b>2024年秋季学期PPT下载</b>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/Chap0_Intro.pdf" target="_blank" style="color:white;">Chap0_Intro.pdf</a>
 
