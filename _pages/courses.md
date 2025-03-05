@@ -38,12 +38,12 @@ permalink: /courses/
 </div>
 
 ### 《计算流体动力学编程实践》
-<!--
+
 <div class="jumbotron">
-#### <b>2024年春季学期PPT下载</b>
+#### <b>2025年春季学期PPT下载</b>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_1.pdf" target="_blank" style="color:white;">chap_1.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/hw_1.pdf" target="_blank" style="color:white;">hw_1.pdf</a>
-
+<!--
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2.1_fluids.pdf" target="_blank" style="color:white;">chap_2.1_fluids.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2.2_code_structure.pdf" target="_blank" style="color:white;">chap_2.2_code_structure.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_2.3_diffusion.pdf" target="_blank" style="color:white;">chap_2.3_diffusion.pdf</a>
