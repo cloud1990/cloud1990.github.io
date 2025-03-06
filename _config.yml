@@ -22,8 +22,8 @@ url: ""
 
 # Footer info
 affiliation: >
-    <a href="http://water.cau.edu.cn/" target="_blank">水利与土木工程学院 <br/>College of Water Resources and Civil Engineering</a><br/>
-    <a href="http://www.cau.edu.cn/" target="_blank">中国农业大学 <br/>China Agricultural University</a><br/>
+    <a href="http://water.cau.edu.cn/" target="_blank">水利与土木工程学院 <br/><span style="font-size: 0.8rem"> College of Water Resources and Civil Engineering</span></a><br/>
+    <a href="http://www.cau.edu.cn/" target="_blank">中国农业大学 <br/>China Agricultural University</a>
 
 location: >
   中以楼 A402 <br/>

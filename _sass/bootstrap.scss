@@ -62,6 +62,8 @@
   --caugrey1: rgb(159,160,160);
   --caugrey2: rgb(201,202,202);
   --caugrey3: rgb(239,239,239);
+
+  --caublack: rgb(0,0,0);
 }
 
 *,
@@ -560,7 +562,8 @@ mark,
 
 code {
   font-size: 87.5%;
-  color: #e83e8c;
+  //color: #e83e8c;
+  color:var(--caugold3);
   word-wrap: break-word;
 }
 
