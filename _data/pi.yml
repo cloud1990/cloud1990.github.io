@@ -7,13 +7,14 @@
   researchgate: https://www.researchgate.net/profile/Yuncheng-Xu-4
   scholar: https://scholar.google.com/citations?user=dM-nHdMAAAAJ&hl=en
   #cv: cv/cv.pdf
-  number_educ: 4
   education1: 2023.1-至今  <br>副教授，中国农业大学  <br>Associate Professsor, China Agricultural University
   education2: 2019.7-2022.12  <br>讲师，中国农业大学  <br>Lecturer, China Agricultural University
   education3: 2014.8-2019.5  <br>哲学博士，水动力学, 美国宾夕法尼亚州立大学  <br>Ph.D., Penn State University <br>(advised by <a href="http://water.engr.psu.edu/liu/" target="_blank">Prof. Xiaofeng Liu</a>)
   education4: 2012.8-2014.7  <br>硕士，农业工程，中国农业大学  <br>Master, China Agricultural University <br>(advised by <a href="http://faculty.cau.edu.cn/slytmgcxy/yhj/list.htm" target="_blank">严海军教授</a>)
   education5: 2008.9-2012.7  <br>本科，工程力学，中国农业大学  <br>Bachelar, China Agricultural University
-  education1short: 2019-至今 讲师、副教授，中国农业大学 
-  education2short: 2014-2019 博士，Penn State 
-  education3short: 2012-2014 硕士，中国农业大学
-  education4short: 2008-2012 本科，中国农业大学
+  number_educ: 5
+  education1short: 2023-至今 副教授，中国农业大学 
+  education2short: 2019-2022 讲师，中国农业大学 
+  education3short: 2014-2019 博士，Penn State 
+  education4short: 2012-2014 硕士，中国农业大学
+  education5short: 2008-2012 本科，中国农业大学
