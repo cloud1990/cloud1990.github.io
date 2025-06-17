@@ -30,6 +30,14 @@ ol li{
 所有共同第一作者均加注上标“#”字样，通讯作者及共同通讯作者均加注上标“*”字样
 <ol reversed="reversed">
         <li>
+            <b><u>Y. Xu</u></b><sup>*</sup> . Provincial-Level Carbon-Reduction Potential for Agricultural Irrigation in China, <i> Water</i>, 2025, 17(12), 5501. 
+            <a1 href="https://www.mdpi.com/2071-1050/17/12/5501/pdf?version=1749890843" target="_blank"><i class="fa fa-file-pdf-o" style="font-size:1.5em;"></i></a1>
+        </li>
+        <li>
+            F. Yu <b><u>Y. Xu</u></b><sup>*</sup>, and H. Yan. Numerical Simulation Study on Hydraulic Performance of Diaphragm Valve，<i>Water</i>，2025，17(10), 1450. 
+         <a1 href="https://www.mdpi.com/2073-4441/17/10/1450/pdf?version=1747116108" target="_blank"><i class="fa fa-file-pdf-o" style="font-size:1.5em;"></i></a1>
+        </li>
+        <li>
             <b><u>Y. Xu</u></b> and X. Liu<sup>*</sup>. Computational Fluid Dynamics-based evaluation and verification of FISP suspended sediment samplers, <i> ASCE Journal of Irrigation and Drainage Engineering</i>, 2022, 148(12):04022043.(selected to Editor's Choice Collections)
         </li>
         <li>
