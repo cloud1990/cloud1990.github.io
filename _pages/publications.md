@@ -30,7 +30,7 @@ ol li{
 所有共同第一作者均加注上标“#”字样，通讯作者及共同通讯作者均加注上标“*”字样
 <ol reversed="reversed">
         <li>
-            <b><u>Y. Xu</u></b><sup>*</sup> . Provincial-Level Carbon-Reduction Potential for Agricultural Irrigation in China, <i> Water</i>, 2025, 17(12), 5501. 
+            <b><u>Y. Xu</u></b><sup>*</sup> . Provincial-Level Carbon-Reduction Potential for Agricultural Irrigation in China, <i> Sustainability</i>, 2025, 17(12), 5501. 
             <a1 href="https://www.mdpi.com/2071-1050/17/12/5501/pdf?version=1749890843" target="_blank"><i class="fa fa-file-pdf-o" style="font-size:1.5em;"></i></a1>
         </li>
         <li>
