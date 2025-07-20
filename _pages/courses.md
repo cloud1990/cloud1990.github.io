@@ -54,7 +54,7 @@ permalink: /courses/
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_5.1_turbulence.pdf" target="_blank" style="color:white;">chap_5.1_turbulence.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_5.2_wall_functions.pdf" target="_blank" style="color:white;">chap_5.2_wall_functions.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_6_postProcessing.pdf" target="_blank" style="color:white;">chap_6_postProcessing.pdf</a>
-<!--
+<!---->
 </div>
 
 <div class="jumbotron">
@@ -136,4 +136,3 @@ icoFoam
 </code>
 <br>
 </div>
--->
