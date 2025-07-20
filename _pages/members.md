@@ -178,3 +178,15 @@ permalink: /members/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+
+## 团队合影 Group Photos
+{% for photo in site.data.group_photos %}
+<div class="row">
+  <div class="col-sm-12">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ photo.filename }}" class="img-responsive" style="margin: 0 auto; border-radius:10%;" />
+    <p style="text-align: center;">{{ photo.caption }}</p>
+  </div>
+</div>
+<br>
+{% endfor %}
