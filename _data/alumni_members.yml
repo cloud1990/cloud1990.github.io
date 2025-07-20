@@ -1,7 +1,35 @@
+- name: 侯晴晴 Qingqing Hou
+  photo: qingqing_hou.jpg
+  duration: 2022.7-2025.6 硕士，能源动力专业
+  info: 内蒙古奈曼旗人，主要从事底栖动物滤食行为相关研究工作。毕业后前往北京师范大学攻读博士学位。
+  email: 2399483062@qq.com
+  number_educ: 3
+  education1: 2025.7- <br>博士, 北京师范大学 <br> Ph.D. Student, Beijing Normal University
+  education2: 2022.7-2025.6 <br>硕士，中国农业大学 <br>Master Student, China Agricultural University
+  education3: 2017.9-2021.7 <br>本科，内蒙古农业大学  <br>Bachelor, Inner Mongolia Agricultural University
+  
+  - name: 乔鸿瑞 Hongrui Qiao
+  photo: hongrui_qiao.jpg
+  duration: 2020.7-2022.6 硕士，能源动力专业
+  info: 四川成都人，主要从事管道内水肥混合运移研究。毕业后公务员就职于四川省成都市政府部门。
+  email: qhrqhr163@163.com
+  number_educ: 2
+  education1: 2023.7-2025.6 <br>硕士，中国农业大学 <br>Master Student, China Agricultural University
+  education2: 2019.9-2023.7 <br>本科，华南农业大学  <br>Bachelor, South China Agricultural University
+  
+  - name: 汪小珊 Xiaoshan Wang
+  photo: xiaoshan_wang.jpg
+  duration: 2019.7-2024.6 博士，水利工程专业
+  info: 陕西安康人，主要从事微喷带、射流泵等相关研究工作。毕业后就职于四川省农业机械科学研究院。
+  email: wangxiaoshan1019@163.com
+  number_educ: 3
+  education1: 2019.7-2024.6 <br>博士，中国农业大学 <br>（与<a href="http://water.cau.edu.cn/art/2011/11/11/art_45756_856547.html" target="_blank">周凌久教授</a>、<a href="http://faculty.cau.edu.cn/slytmgcxy/yhj/list.htm" target="_blank">严海军教授</a>合作指导）<br>Ph.D., China Agricultural University <br>(co-advised by Prof. Zhou & Prof. Yan)
+  education2: 2017.8-2019.7 <br>硕士，中国农业大学  <br>Master, China Agricultural University <br>(advised by <a href="http://water.cau.edu.cn/art/2011/11/11/art_45756_856547.html" target="_blank">周凌久教授</a>)
+  education3: 2013.9-2017.7 <br>本科，西北农林科技大学  <br>Bachelor, Northwest A&F University
 
-- name: 金士呈 Shicheng Jin
+  - name: 金士呈 Shicheng Jin
   photo: shicheng_jin.jpg
-  duration: 2021.7-2023.6 在读
+  duration: 2021.7-2023.6 硕士，土木水利专业
   info: 河南商丘人，主要从事微喷带流动数值模拟相关研究工作。毕业后就职于河南省豫南水利勘测设计有限公司。
   email: 1441402954@qq.com
   number_educ: 2
@@ -10,21 +38,9 @@
 
 - name: 孙成凡 Chengfan Sun
   photo: chengfan_sun.jpg
-  duration: 2020.7-2022.6 在读
+  duration: 2020.7-2022.6 硕士，能源动力专业
   info: 四川成都人，主要从事沼蛤附着流动阻力相关研究工作。毕业后公务员就职于四川省乐山市政府部门。
   email: sunchengfanxj@163.com
   number_educ: 2
   education1: 2020.7-2022.6 <br>硕士，中国农业大学 <br>Master, China Agricultural University
   education2: 2016.9-2020.7 <br>本科，四川农业大学 <br>Bachelor, Sichuan Agricultural University
-
-- name: 汪小珊 Xiaoshan Wang
-  photo: xiaoshan_wang.jpg
-  duration: 2019.7-2024.6 在读
-  info: 陕西安康人，主要从事微喷带、射流泵等相关研究工作。毕业后就职于四川省农业机械科学研究院。
-  email: wangxiaoshan1019@163.com
-  number_educ: 3
-  education1: 2019.7-2024.6 <br>博士，中国农业大学 <br>（与<a href="http://water.cau.edu.cn/art/2011/11/11/art_45756_856547.html" target="_blank">周凌久教授</a>、<a href="http://faculty.cau.edu.cn/slytmgcxy/yhj/list.htm" target="_blank">严海军教授</a>合作指导）<br>Ph.D., China Agricultural University <br>(co-advised by Prof. Zhou & Prof. Yan)
-  education2: 2017.8-2019.7 <br>硕士，中国农业大学  <br>Master, China Agricultural University <br>(advised by <a href="http://water.cau.edu.cn/art/2011/11/11/art_45756_856547.html" target="_blank">周凌久教授</a>)
-  education3: 2013.9-2017.7 <br>本科，西北农林科技大学  <br>Bachelor, Northwest A&F University
-
-

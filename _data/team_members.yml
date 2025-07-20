@@ -1,42 +1,23 @@
 - name: 何东洋 Dongyang He
   photo: dongyang_he.jpg
-  info: 河北唐山人，主要从事农田小气候监测研究。
+  info: 河北唐山人，农业水土工程专业硕士生，主要从事农田小气候监测研究。
   email: hdysyau@163.com
   number_educ: 3
   education1: 2022.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
   education2: 2019.7-2021.7 <br>技术员、项目经理助理，迁西县昌晟市政园林绿化有限公司
   education3: 2015.9-2019.7 <br>本科，沈阳农业大学  <br>Bachelor, Shenyang Agricultural University
 
-
-- name: 侯晴晴 Qingqing Hou
-  photo: qingqing_hou.jpg
-  info: 内蒙古奈曼旗人，主要从事底栖动物滤食行为相关研究工作。
-  email: 2399483062@qq.com
-  number_educ: 2
-  education1: 2022.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
-  education2: 2017.9-2021.7 <br>本科，内蒙古农业大学  <br>Bachelor, Inner Mongolia Agricultural University
-
-
 - name: 余丰伟 Fengwei Yu
   photo: fengwei_yu.jpg
-  info: 河南信阳人，主要从事大型喷灌机变量灌溉水力控制阀相关开发研究工作。
+  info: 河南信阳人，水利工程专业硕士生，主要从事大型喷灌机变量灌溉水力控制阀相关开发研究工作。
   email: 1279050867@qq.com
   number_educ: 2
   education1: 2023.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
   education2: 2019.9-2023.7 <br>本科，华北水利水电大学  <br>Bachelor, North China University of Water Conservancy and Electric Power
-
-
-- name: 乔鸿瑞 Hongrui Qiao
-  photo: hongrui_qiao.jpg
-  info: 四川成都人，主要从事管道内水肥混合运移研究。
-  email: qhrqhr163@163.com
-  number_educ: 2
-  education1: 2023.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
-  education2: 2019.9-2023.7 <br>本科，华南农业大学  <br>Bachelor, South China Agricultural University
   
 - name: 许添一 Tianyi Xu
   photo: tianyi_xu.jpg
-  info: 辽宁阜新人，主要从事基于代理模型的渠道流量反演相关研究工作。
+  info: 辽宁阜新人，水利工程专业硕士生，主要从事基于代理模型的渠道流量反演相关研究工作。
   email: 571177960@qq.com
   number_educ: 2
   education1: 2024.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
@@ -44,7 +25,7 @@
 
 - name: 黄雨璇 Yuxuan Huang
   photo: yuxuan_huang.jpg
-  info: 湖南永州人。
+  info: 湖南永州人，土木水利专业硕士生，主要从事节水灌溉技术综合效益评价相关研究工作。
   email: hyxjob@1118.com
   number_educ: 2
   education1: 2024.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
@@ -52,12 +33,52 @@
 
 - name: 乔蔚荧 Weiying Qiao
   photo: weiying_qiao.jpg
-  info: 山西运城人。
+  info: 山西运城人，水利工程专业硕士生（交叉人才专项），主要从事基于RGB和深度图像的田间杂草识别相关研究工作。
   email: qiaoweiying2024@163.com
   number_educ: 2
   education1: 2024.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
   education2: 2020.9-2024.7 <br>本科，太原理工大学  <br>Bachelor, Taiyuan University of Technology
-  
+
+- name: 邵子怡 Ziyi Shao
+  photo: ziyi_shao.jpg
+  info: 河北保定人，水利工程专业硕士生。
+  email: 13832238646@163.com
+  number_educ: 2
+  education1: 2025.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
+  education2: 2021.9-2025.7 <br>本科，河北工程大学  <br>Bachelor, Hebei University of Engineering
+
+- name: 努尔楚阿克·努尔兰别克 Nurlanbek Nurshuak
+  photo: nurlanbek_nurshuak.jpg
+  info: 哈萨克斯坦人，水利工程专业硕士生。
+  email: nurlanbeknurshuak@gmail.com
+  number_educ: 2
+  education1: 2025.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
+  education2: 2021.9-2025.6 <br>本科，哈萨克国立农业研究大学  <br>Bachelor, Kazakh National agrarian Research University
+
+- name: 胡燕 Yan Hu
+  photo: yan_hu.jpg
+  info: 江西南昌人，土木水利专业硕士生。
+  email: 18252093596@139.com
+  number_educ: 2
+  education1: 2025.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
+  education2: 2020.9-2024.7 <br>本科，河海大学  <br>Bachelor, Hohai University
+
+- name: 陈春阳 Chunyang Chen
+  photo: chunyang_chen.jpg
+  info: 河北沧州献县人，土木水利专业硕士生。
+  email: 15130809681@163.com
+  number_educ: 2
+  education1: 2025.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
+  education2: 2021.9-2025.7 <br>河北农业大学  <br>Bachelor, Agricultural University of Hebei
+
+- name: 张博文 Bowen Zhang
+  photo: bowen_zhang.jpg
+  info: 山西运城人，土木水利专业硕士生。
+  email: 13467210402@163.com
+  number_educ: 2
+  education1: 2025.7-至今 <br>在读硕士生，中国农业大学 <br>Master Student, China Agricultural University
+  education2: 2021.9-2025.7 <br>河北大学  <br>Bachelor, Heibei University
+
 #- name: 虞婧渭 Weijing Yu
   #photo: weijing_yu.jpg
   #info: 江苏张家港人，从事底栖动物水动力学相关研究。

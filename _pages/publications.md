@@ -34,14 +34,14 @@ ol li{
             <a1 href="https://www.mdpi.com/2071-1050/17/12/5501/pdf?version=1749890843" target="_blank"><i class="fa fa-file-pdf-o" style="font-size:1.5em;"></i></a1>
         </li>
         <li>
-            F. Yu <b><u>Y. Xu</u></b><sup>*</sup>, and H. Yan. Numerical Simulation Study on Hydraulic Performance of Diaphragm Valve，<i>Water</i>，2025，17(10), 1450. 
+            F. Yu, <b><u>Y. Xu</u></b><sup>*</sup>, and H. Yan. Numerical Simulation Study on Hydraulic Performance of Diaphragm Valve，<i>Water</i>, 2025, 17(10), 1450. 
          <a1 href="https://www.mdpi.com/2073-4441/17/10/1450/pdf?version=1747116108" target="_blank"><i class="fa fa-file-pdf-o" style="font-size:1.5em;"></i></a1>
         </li>
         <li>
             <b><u>Y. Xu</u></b> and X. Liu<sup>*</sup>. Computational Fluid Dynamics-based evaluation and verification of FISP suspended sediment samplers, <i> ASCE Journal of Irrigation and Drainage Engineering</i>, 2022, 148(12):04022043.(selected to Editor's Choice Collections)
         </li>
         <li>
-            X. Wang, <b><u>Y. Xu</u></b><sup>*</sup>, H. Yan, H. Tan, and L. Zhou. Spray Characteristics and Parameter Optimization of Orifice Arrangement for Micro-Sprinkling Hoses，<i>Water</i>，2022，14, 3260. 
+            X. Wang, <b><u>Y. Xu</u></b><sup>*</sup>, H. Yan, H. Tan, and L. Zhou. Spray Characteristics and Parameter Optimization of Orifice Arrangement for Micro-Sprinkling Hoses，<i>Water</i>, 2022, 14, 3260. 
          <a1 href="https://www.mdpi.com/2073-4441/14/20/3260/pdf" target="_blank"><i class="fa fa-file-pdf-o" style="font-size:1.5em;"></i></a1>
         </li>
         <li>
