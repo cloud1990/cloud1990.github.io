@@ -5,3 +5,7 @@
 TASKKILL /PID 5364 /f
 
 bundle exec jekyll s --trace
+
+bundle install
+
+bundle exec jekyll serve

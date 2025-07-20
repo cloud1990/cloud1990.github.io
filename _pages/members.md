@@ -183,8 +183,8 @@ permalink: /members/
 ## 团队合影 Group Photos
 {% for photo in site.data.group_photos %}
 <div>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ photo.filename }}" class="img-responsive" style="margin: 0 auto; border-radius:10%; max-width: 100%; height: auto;" />
-  <p style="text-align: center;">{{ photo.caption }}</p>
+  <p style="text-align: left;margin-bottom: 2px;">{{ photo.caption }}</p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ photo.filename }}" class="img-responsive" style="margin: 0 auto; border-radius:5%; max-width: 60%; height: auto;" />
 </div>
 <br>
 {% endfor %}
