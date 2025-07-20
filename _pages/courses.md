@@ -16,9 +16,8 @@ permalink: /courses/
 </style>
 
 ### 《能源与动力工程专业英语》
-
-<div class="jumbotron">
 <!--
+<div class="jumbotron">
 <b>2024年秋季学期PPT下载</b>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/Chap0_Intro.pdf" target="_blank" style="color:white;">Chap0_Intro.pdf</a>
 
@@ -35,11 +34,13 @@ permalink: /courses/
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/专业英语教学资料（部分考题出处）.pdf" target="_blank" style="color:white;">专业英语教学资料（部分考题出处）.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/Pump.pdf" target="_blank" style="color:white;">Pump.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/Academic_English/Technical_Terms.pdf" target="_blank" style="color:white;">Technical_Terms.pdf</a>
--->
 </div>
+-->
 
+<!-- 添加带有样式的 <hr> 标签作为分界线 -->
+<hr style="border: 2px solid var(--caugreen); margin: 20px 0;">
 ### 《计算流体动力学编程实践》
-
+<!--
 <div class="jumbotron">
 #### <b>2025年春季学期PPT下载</b>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_1.pdf" target="_blank" style="color:white;">chap_1.pdf</a>
@@ -54,7 +55,7 @@ permalink: /courses/
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_5.1_turbulence.pdf" target="_blank" style="color:white;">chap_5.1_turbulence.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_5.2_wall_functions.pdf" target="_blank" style="color:white;">chap_5.2_wall_functions.pdf</a>
 <br><a href="{{ site.url }}{{ site.baseurl }}/files/OpenFOAM/chap_6_postProcessing.pdf" target="_blank" style="color:white;">chap_6_postProcessing.pdf</a>
-<!--
+
 </div>
 
 <div class="jumbotron">

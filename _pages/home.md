@@ -7,7 +7,7 @@ permalink: /
 
 
 ### 研究问题 Scope
-
+<!--
 <video
       id="my-video"
       class="video-js"
@@ -19,6 +19,24 @@ permalink: /
       >
       <source src="{{site.url}}{{site.baseurl}}/images/teampic/ELJ_s.mp4" type="video/mp4" />
     </video>
+-->
+<img
+  src="{{site.url}}{{site.baseurl}}/images/teampic/qiao2025_1.gif"
+  width="100%"
+  style="background: #000; mix-blend-mode: multiply;margin-bottom: 2px;"
+  alt="GIF Image"
+/>
+<div style="position: relative; width: 100%;">
+  <img
+    src="{{site.url}}{{site.baseurl}}/images/teampic/qiao2025.gif"
+    width="100%"
+    style="background: #000; mix-blend-mode: multiply; margin-bottom: 2px;"
+    alt="GIF Image"
+  />
+  <div style="position: absolute; bottom: 10px; right: 70px; font-size: 18px; font-weight: bold;">
+    静态混合器作用下
+  </div>
+</div>
 
 生态水动力学课题组（Eco-Hydro Group）是由中国农业大学徐云成负责，目前主要关注水利工程、农业工程、环境工程等研究领域中的生物（动物/植物）习性-水动力环境耦合相关的科学问题和工程问题，具体问题包括但不限于：四足机器人田间应用、复杂管网水动力学特性研究、基于水动力学的贻贝自组织行为研究、大型喷灌机变量灌溉智能协同控制技术研究、输调水工程生物污损等。
 <br> <br> 

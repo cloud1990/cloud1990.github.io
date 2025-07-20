@@ -36,6 +36,8 @@ permalink: /members/
 
 {% endfor %}
 
+<!-- 添加带有样式的 <hr> 标签作为分界线 -->
+<hr style="border: 2px solid var(--caugreen); margin: 20px 0;">
 
 ## 在读研究生 Current Graduate Student
 {% assign number_printed = 0 %}
@@ -107,6 +109,8 @@ permalink: /members/
 </div>
 {% endif %}
 
+<!-- 添加带有样式的 <hr> 标签作为分界线 -->
+<hr style="border: 2px solid var(--caugreen); margin: 20px 0;">
 
 ## 已毕业研究生 Group Alumni
 
@@ -179,6 +183,8 @@ permalink: /members/
 </div>
 {% endif %}
 
+<!-- 添加带有样式的 <hr> 标签作为分界线 -->
+<hr style="border: 2px solid var(--caugreen); margin: 20px 0;">
 
 ## 团队合影 Group Photos
 {% for photo in site.data.group_photos %}
