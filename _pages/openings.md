@@ -12,4 +12,5 @@ permalink: /openings/
 </p>
 <div class="jumbotron">
  **招生专业：水利工程（博士、学硕）、农业水土工程（学硕）、土木水利（专硕）、能源动力（专硕）<br> 研究方向：智慧灌溉技术与装备（机器狗田间应用、大型喷灌机变量灌溉等）、生态水动力学、计算流体动力学等<br> 招生人数：博士生1~2人/年，硕士生2~4人/年<br> E-mail: ycxu@cau.edu.cn; ycxu1990@gmail.com**
+ <br> 中国农业大学研究生招生网站：https://yz.cau.edu.cn/
 </div>
