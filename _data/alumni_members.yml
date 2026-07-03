@@ -47,33 +47,37 @@
   
 - name: 何东洋 Dongyang He
   photo: dongyang_he.jpg
+  duration: 2022.7-2026.6 硕士，农业水土工程专业
   info: 河北唐山人，农业水土工程专业硕士生，主要从事农田小气候监测研究。
   email: hdysyau@163.com
-  number_educ: 4
-  education1: 2022.7-2026.7 <br>硕士，中国农业大学 <br>Master, China Agricultural University
+  number_educ: 3
+  education1: 2022.7-2026.6 <br>硕士，中国农业大学 <br>Master, China Agricultural University
   education2: 2019.7-2021.7 <br>技术员、项目经理助理，迁西县昌晟市政园林绿化有限公司
   education3: 2015.9-2019.7 <br>本科，沈阳农业大学  <br>Bachelor, Shenyang Agricultural University
 
 - name: 余丰伟 Fengwei Yu
   photo: fengwei_yu.jpg
+  duration: 2023.7-2026.6 硕士，水利工程专业
   info: 河南信阳人，水利工程专业硕士生，主要从事大型喷灌机变量灌溉水力控制阀相关开发研究工作。
   email: 1279050867@qq.com
   number_educ: 3
   education1: 2026.7-至今 <br>中国水权交易所长江流域事业部 <br>Yangtze River Basin Business Division, China Water Rights Exchange Co., Ltd.
-  education2: 2023.7-2026.7 <br>硕士，中国农业大学 <br>Master, China Agricultural University
+  education2: 2023.7-2026.6 <br>硕士，中国农业大学 <br>Master, China Agricultural University
   education3: 2019.9-2023.7 <br>本科，华北水利水电大学  <br>Bachelor, North China University of Water Conservancy and Electric Power
   
 - name: 黄雨璇 Yuxuan Huang
   photo: yuxuan_huang.jpg
+  duration: 2024.7-2026.6 硕士，土木水利专业
   info: 湖南永州人，土木水利专业硕士生，主要从事节水灌溉技术综合效益评价相关研究工作。
   email: hyxjob@1118.com
   number_educ: 3
   education1: 2026.7-至今 <br>徐工新能源动力科技有限公司 <br>XCMG New Energy Power Technology Co., Ltd.
-  education2: 2024.7-2026.7 <br>硕士，中国农业大学 <br>Master, China Agricultural University
+  education2: 2024.7-2026.6 <br>硕士，中国农业大学 <br>Master, China Agricultural University
   education3: 2020.9-2024.7 <br>本科，南京农业大学  <br>Bachelor, Nanjing Agricultural University
 
 - name: 虞婧渭 Weijing Yu
   photo: weijing_yu.jpg
+  duration: 2022.7-2026.6 本科，能源与动力工程专业
   info: 江苏张家港人，从事底栖动物水动力学相关研究。
   email: 
   number_educ: 1
