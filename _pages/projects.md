@@ -5,14 +5,13 @@ sitemap: false
 permalink: /projects/
 ---
 
-### 项目介绍 Projects 
+### 项目介绍 Projects
 
 {% if site.data.grants %}
 <div class="jumbotron">
-<ul>
+<ul class="project-list">
 {% for grant in site.data.grants %}
  <li> {{ grant.name }} </li>
- <br>
 {% endfor %}
 </ul>
 </div>

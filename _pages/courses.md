@@ -38,7 +38,8 @@ permalink: /courses/
 -->
 
 <!-- 添加带有样式的 <hr> 标签作为分界线 -->
-<hr style="border: 2px solid var(--caugreen); margin: 20px 0;">
+<hr class="section-divider">
+
 ### 《计算流体动力学编程实践》
 <!--
 <div class="jumbotron">
