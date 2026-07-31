@@ -5,29 +5,20 @@
   <meta name="baidu-site-verification" content="code-WzxUPp3duQ" />
 
   <title>{% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{{ site.description | escape }}">
+  <meta name="description" content="{{ site.description }}">
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+<!--
+  <link rel="shortcut icon" type ="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/favicon.ico">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+
   <link rel="stylesheet" href="{{ "/assets/font-awesome.min.css" | relative_url }}">
-  <link rel="stylesheet" href="{{ "/assets/academicons.min.css" | relative_url }}">
+ --> <link rel="stylesheet" href="{{ "/assets/academicons.min.css" | relative_url }}"> 
+
 
 {% if jekyll.environment == 'production' %}
-  <script>
-    var _hmt = _hmt || [];
-    (function() {
-      var hm = document.createElement("script");
-      hm.src = "https://hm.baidu.com/hm.js?1cb2a7fa8e00a7582e27b79c3720c1f1";
-      var s = document.getElementsByTagName("script")[0];
-      s.parentNode.insertBefore(hm, s);
-    })();
-  </script>
-  <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
-  <script>
-    if (window.LA) {
-      LA.init({id: "Jqs5DHuIqk3r3yvN", ck: "Jqs5DHuIqk3r3yvN"});
-    }
-  </script>
-
 {% include analytics.html %}
 {% endif %}
 
