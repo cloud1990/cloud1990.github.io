@@ -18,10 +18,10 @@ Our students come from diverse disciplines. Here, academic background is never a
 
 <div class="opening-card">
 <h4>招生专业 <span>Programs</span></h4>
-<div class="oc-item"><strong>水利工程</strong>（博士、学硕）<em>Water Resources Engineering</em></div>
-<div class="oc-item"><strong>农业水土工程</strong>（学硕）<em>Agricultural Water-Soil Eng.</em></div>
-<div class="oc-item"><strong>土木水利</strong>（专硕）<em>Civil & Hydraulic Engineering</em></div>
-<div class="oc-item"><strong>能源动力</strong>（专硕）<em>Energy & Power Engineering</em></div>
+<div class="oc-item"><strong>水利工程</strong>（博士、学硕）<em>Water Resources Engineering (PhD, Master)</em></div>
+<div class="oc-item"><strong>农业水土工程</strong>（学硕）<em>Agricultural Water-Soil Eng.(Master)</em></div>
+<div class="oc-item"><strong>土木水利</strong>（专硕）<em>Civil & Hydraulic Engineering(Master)</em></div>
+<div class="oc-item"><strong>能源动力</strong>（博士、专硕）<em>Energy & Power Engineering(PhD, Master)</em></div>
 </div>
 
 <div class="opening-card">
