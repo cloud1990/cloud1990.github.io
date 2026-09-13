@@ -62,14 +62,3 @@ permalink: /about/
 </div>
 {% endfor %}
 
-{% if site.data.grants %}
-<div class="jumbotron">
-### Grants
-<ul>
-{% for grant in site.data.grants %}
- <li> {{ grant.name }} </li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
-

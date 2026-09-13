@@ -3,14 +3,13 @@ title: "Publications"
 layout: gridlay
 sitemap: false
 permalink: /publications/
-years: [2016, 2017, 2018, 2019, 2020, 2021]
 ---
 
 ### 学术论文 Publications
 <div class="jumbotron">
 
 <div class="pub-note">
-所有共同第一作者均加注上标"#"字样，通讯作者及共同通讯作者均加注上标"*"字样
+所有共同第一作者均加注上标“#”字样，通讯作者及共同通讯作者均加注上标“*”字样
 </div>
 
 #### 2026

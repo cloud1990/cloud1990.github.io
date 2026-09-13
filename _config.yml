@@ -2,7 +2,7 @@
 title: "徐云成-生态水动力学课题组 Eco-Hydrodynamics Group"
 title1: "徐云成-生态水动力学课题组<br>Eco-Hydrodynamics Group"
 email: ycxu@cau.edu.cn
-description: "生态水动力学课题组（Eco-Hydro Group）由中国农业大学徐云成副教授负责，长期聚焦农业水利工程与智慧农业交叉领域，围绕节水灌溉装备机理与智能化、农田智慧感知与精准作业、农业水动力学、农业水资源系统优化四大方向，形成\"机理解析→装备研发→系统集成→工程应用\"的完整研究体系。The Eco-Hydrodynamics Research Group (Eco-Hydro Group), led by Prof. Yuncheng Xu at China Agricultural University, works at the intersection of agricultural water conservancy and smart agriculture, advancing four integrated directions: water-saving irrigation intelligence, smart farmland sensing, agricultural hydrodynamics, and water resources system optimization."
+description: "生态水动力学课题组（Eco-Hydro Group）由中国农业大学徐云成副教授负责。课题组以水动力学为方法内核、以农业生态系统为研究对象，围绕农业水动力学与数值模拟、智慧农田感知与无人系统、精准灌溉与水肥一体化智能装备、农业水土系统建模与可持续性评价四大方向，形成\"机理解析→智能感知→精准调控→系统评价\"的完整研究体系。The Eco-Hydrodynamics Research Group (Eco-Hydro Group), led by Prof. Yuncheng Xu at China Agricultural University, takes hydrodynamics as its methodological core and agricultural ecosystems as its object of study, advancing four integrated directions: agricultural hydrodynamics and numerical simulation, smart farmland sensing and unmanned systems, precision irrigation and water-fertilizer equipment, and water-soil system modeling and sustainability assessment."
 baseurl: ""
 url: ""
 
@@ -32,6 +32,9 @@ nav_pages:
       name1: interests
       name2: 研究方向
   - name: 
+      name1: openings
+      name2: 招生信息
+  - name: 
       name1: members
       name2: 团队成员
   - name: 
@@ -40,13 +43,9 @@ nav_pages:
   - name: 
       name1: publications
       name2: 学术论文
-  - name: 
-      name1: openings
-      name2: 招生信息
-  - name: 
-      name1: courses
-      name2: 课程信息      
-#  - name: publications
+#  - name: 
+#      name1: courses
+#      name2: 课程信息
 #  - name: talks
 #  - name: research
 #  - name: software
