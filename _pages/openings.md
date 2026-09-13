@@ -57,9 +57,8 @@ Our students come from diverse disciplines — water resources, energy and power
 
 ### 推免（保研） Recommendation-based Admission
 
-1. **参加夏令营** — 学院在每年夏季发布夏令营通知，含课题组宣讲、实验室参观与考核环节。
-2. **预推免面试** — 秋季学期初，可直接联系导师沟通研究意向并参加面试。
-3. **推免系统填报与录取** — 教育部推免服务系统开放后填报志愿、参加复试确认录取。
+1. **预推免面试** — 秋季学期初，可直接联系导师沟通研究意向并参加面试。
+2. **推免系统填报与录取** — 教育部推免服务系统开放后填报志愿、参加复试确认录取。
 
 ### 统考（考研） National Entrance Examination
 
