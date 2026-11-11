@@ -1,7 +1,9 @@
 - name: 孙成凡 Chengfan Sun
   photo: chengfan_sun.jpg
   duration: 2020.7-2022.6 硕士，能源动力专业
+  duration_en: MSc, Energy and Power Engineering
   info: 四川成都人，主要从事沼蛤附着流动阻力相关研究工作。毕业后公务员就职于四川省乐山市政府部门。
+  info_en: Native of Chengdu, Sichuan Province; mainly worked on the flow resistance caused by golden mussel attachment. After graduation, joined the Leshan Municipal Government of Sichuan Province as a civil servant.
   email: sunchengfanxj@163.com
   number_educ: 2
   education1: 2020.7-2022.6 <br>硕士，中国农业大学 <br>Master, China Agricultural University
@@ -10,7 +12,9 @@
 - name: 金士呈 Shicheng Jin
   photo: shicheng_jin.jpg
   duration: 2021.7-2023.6 硕士，土木水利专业
+  duration_en: MSc, Civil and Hydraulic Engineering
   info: 河南商丘人，主要从事微喷带流动数值模拟相关研究工作。毕业后就职于河南省豫南水利勘测设计有限公司。
+  info_en: Native of Shangqiu, Henan Province; mainly worked on numerical simulation of the flow in micro-sprinkler tapes. Now works at Henan Yunan Water Conservancy Survey and Design Co., Ltd.
   email: 1441402954@qq.com
   number_educ: 2
   education1: 2021.7-2023.6 <br>硕士生，中国农业大学 <br>Master, China Agricultural University
@@ -19,7 +23,9 @@
 - name: 汪小珊 Xiaoshan Wang
   photo: xiaoshan_wang.jpg
   duration: 2019.7-2024.6 博士，水利工程专业
+  duration_en: PhD, Hydraulic Engineering
   info: 陕西安康人，主要从事微喷带、射流泵等相关研究工作。毕业后就职于四川省农业机械科学研究院。
+  info_en: Native of Ankang, Shaanxi Province; mainly worked on micro-sprinkler tapes and jet pumps. Now works at the Sichuan Academy of Agricultural Machinery Sciences.
   email: wangxiaoshan1019@163.com
   number_educ: 3
   education1: 2019.7-2024.6 <br>博士，中国农业大学 <br>（与<a href="http://water.cau.edu.cn/art/2011/11/11/art_45756_856547.html" target="_blank">周凌久教授</a>、<a href="http://faculty.cau.edu.cn/slytmgcxy/yhj/list.htm" target="_blank">严海军教授</a>合作指导）<br>Ph.D., China Agricultural University <br>(co-advised by Prof. Zhou & Prof. Yan)
@@ -29,7 +35,9 @@
 - name: 侯晴晴 Qingqing Hou
   photo: qingqing_hou.jpg
   duration: 2022.7-2025.6 硕士，能源动力专业
+  duration_en: MSc, Energy and Power Engineering
   info: 内蒙古奈曼旗人，主要从事底栖动物滤食行为相关研究工作。毕业后前往北京师范大学攻读博士学位。
+  info_en: Native of Naiman Banner, Inner Mongolia; mainly worked on the filter-feeding behavior of benthic animals. After graduation, went on to pursue a Ph.D. at Beijing Normal University.
   email: 2399483062@qq.com
   number_educ: 3
   education1: 2025.7- <br>博士, 北京师范大学 <br> Ph.D., Beijing Normal University
@@ -39,7 +47,9 @@
 - name: 乔鸿瑞 Hongrui Qiao
   photo: hongrui_qiao.jpg
   duration: 2023.7-2025.6 硕士，能源动力专业
+  duration_en: MSc, Energy and Power Engineering
   info: 四川成都人，主要从事管道内水肥混合运移研究。毕业后公务员就职于四川省成都市政府部门。
+  info_en: Native of Chengdu, Sichuan Province; mainly studied the mixing and transport of water and fertilizer in pipelines. After graduation, joined the Chengdu Municipal Government of Sichuan Province as a civil servant.
   email: qhrqhr163@163.com
   number_educ: 2
   education1: 2023.7-2025.6 <br>硕士，中国农业大学 <br>Master, China Agricultural University
@@ -48,17 +58,21 @@
 - name: 何东洋 Dongyang He
   photo: dongyang_he.jpg
   duration: 2022.7-2026.6 硕士，农业水土工程专业
+  duration_en: MSc, Agricultural Water and Soil Engineering
   info: 河北唐山人，农业水土工程专业硕士生，主要从事农田小气候监测研究。
+  info_en: Native of Tangshan, Hebei Province; Master's student in Agricultural Water and Soil Engineering, mainly working on field microclimate monitoring.
   email: hdysyau@163.com
   number_educ: 3
   education1: 2022.7-2026.6 <br>硕士，中国农业大学 <br>Master, China Agricultural University
-  education2: 2019.7-2021.7 <br>技术员、项目经理助理，迁西县昌晟市政园林绿化有限公司
+  education2: 2019.7-2021.7 <br>技术员、项目经理助理，迁西县昌晟市政园林绿化有限公司 <br>Technician / Assistant Project Manager, Qianxi Changsheng Municipal Landscaping Co., Ltd.
   education3: 2015.9-2019.7 <br>本科，沈阳农业大学  <br>Bachelor, Shenyang Agricultural University
 
 - name: 余丰伟 Fengwei Yu
   photo: fengwei_yu.jpg
   duration: 2023.7-2026.6 硕士，水利工程专业
+  duration_en: MSc, Hydraulic Engineering
   info: 河南信阳人，水利工程专业硕士生，主要从事大型喷灌机变量灌溉水力控制阀相关开发研究工作。
+  info_en: Native of Xinyang, Henan Province; Master's student in Hydraulic Engineering, mainly working on the development of hydraulic control valves for variable-rate irrigation of large sprinkler machines.
   email: 1279050867@qq.com
   number_educ: 3
   education1: 2026.7-至今 <br>中国水权交易所长江流域事业部 <br>Yangtze River Basin Business Division, China Water Rights Exchange Co., Ltd.
@@ -68,7 +82,9 @@
 - name: 黄雨璇 Yuxuan Huang
   photo: yuxuan_huang.jpg
   duration: 2024.7-2026.6 硕士，土木水利专业
+  duration_en: MSc, Civil and Hydraulic Engineering
   info: 湖南永州人，土木水利专业硕士生，主要从事节水灌溉技术综合效益评价相关研究工作。
+  info_en: Native of Yongzhou, Hunan Province; Master's student in Civil and Hydraulic Engineering, mainly working on the comprehensive benefit evaluation of water-saving irrigation technologies.
   email: hyxjob@1118.com
   number_educ: 3
   education1: 2026.7-至今 <br>徐工新能源动力科技有限公司 <br>XCMG New Energy Power Technology Co., Ltd.
@@ -78,7 +94,9 @@
 - name: 虞婧渭 Weijing Yu
   photo: weijing_yu.jpg
   duration: 2022.7-2026.6 本科，能源与动力工程专业
+  duration_en: BEng, Energy and Power Engineering
   info: 江苏张家港人，从事底栖动物水动力学相关研究。
+  info_en: Native of Zhangjiagang, Jiangsu Province; working on the hydrodynamics of benthic animals.
   email: 
   number_educ: 2
   education1: 2026.9-至今   <br>在读硕士生，上海交通大学  <br>Master Student, Shanghai Jiao Tong University

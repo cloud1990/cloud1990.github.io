@@ -1,31 +1,45 @@
 - name: "2025.8 – 2026.8 <br> CDEM与OpenFOAM耦合功能模块开发（主持，横向，15万元）"
+  name_en: "Development of the CDEM–OpenFOAM coupling module (PI, industry-funded project, 150,000 RMB)"
   status: completed
 - name: "2025.3 – 2027.3 <br> 机器狗农田环境感知驱动的小麦精准节水灌溉调控技术研究（主持，农业水资源高效利用全国重点实验室
 交叉研究基金项目，20万元）"
+  name_en: "Robot-dog perception-driven precision water-saving irrigation regulation for wheat (PI, Interdisciplinary Research Fund of the State Key Laboratory of Efficient Utilization of Agricultural Water Resources, 200,000 RMB)"
   status: ongoing
 - name: "2025.1 – 2025.5 <br> 基础冲刷计算程序附加模块开发（主持，横向，10万元）"
+  name_en: "Development of an add-on module for the foundation scour code (PI, industry-funded project, 100,000 RMB)"
   status: completed
 - name: "2024.1 – 2026.12 <br> 北斗/GNSS 精准农业技术和服务系统研发与应用示范（骨干参与，国家重点研发项目：2023YFE0208200，承担子任务120万元）"
+  name_en: "R&D and demonstration of BeiDou/GNSS precision agriculture technology and service systems (key participant, National Key R&D Program, 2023YFE0208200; subtask 1,200,000 RMB)"
   status: ongoing
 - name: "2023.12 – 2027.12 <br> 喷灌水肥时空分布与运移吸收机制（子课题主持，国家重点研发项目：2023YFD1900701-01，72万元）"
+  name_en: "Spatiotemporal distribution, transport and uptake mechanisms of irrigation water and fertilizer (sub-project PI, National Key R&D Program, 2023YFD1900701-01, 720,000 RMB)"
   status: ongoing
 - name: "2023.10 – 2026.12 <br> 多功能精准作业大型喷灌机研发与应用（骨干参与，承担子任务200万元）"
+  name_en: "Development and application of multi-functional precision large sprinkler machines (key participant, subtask 2,000,000 RMB)"
   status: ongoing
 - name: "2022.12 – 2026.12 <br> 环塔里木盆地低能耗、高储能、宜机化温室工程技术研究示范（主要参与，新疆自治区重大科技专项：2022A02005-1）"
+  name_en: "Low-energy, high-storage and machinery-friendly greenhouse engineering along the Tarim Basin rim (main participant, Major Science and Technology Project of Xinjiang Uygur Autonomous Region, 2022A02005-1)"
   status: ongoing
 - name: "2023.1 – 2025.12 <br> 沼蛤附着聚团行为及其滤食过程的水动力学机理（主持，国家自然科学基金青年项目：52209103，30万元）"
+  name_en: "Hydrodynamic mechanisms of mussel attachment, aggregation behavior and filter-feeding processes (PI, NSFC Young Scientists Fund, 52209103, 300,000 RMB)"
   status: completed
 - name: "2023.2 – 2024.12 <br> 圆形喷灌机精准灌溉施肥技术与装备示范	（参与，水利部）"
+  name_en: "Demonstration of precision fertigation technology and equipment for center-pivot irrigation systems (participant, Ministry of Water Resources)"
   status: completed
 - name: "2022.3 – 2022.12 <br> 设施水肥一体化智能装备测试方法研究与平台构建（第1期）-设施水肥一体化智能装备测试方法与关键测试系统研究（主要参与，北京市农业机械试验鉴定推广站）"
+  name_en: "Test methods and platform for intelligent fertigation equipment (Phase 1) — test methods and key test systems for intelligent fertigation equipment (main participant, Beijing Agricultural Machinery Testing and Extension Station)"
   status: completed
 - name: "2021.1 – 2022.12 <br> 输水通道中沼蛤附着流动阻力的形成机理研究（主持，清华大学水沙科学与水利水电工程国家重点实验室开放基金：sklhse-2021-B-03，10万元）"
+  name_en: "Formation mechanism of flow resistance induced by mussel attachment in water conveyance channels (PI, Open Fund of the State Key Laboratory of Hydroscience and Engineering, Tsinghua University, sklhse-2021-B-03, 100,000 RMB)"
   status: completed
 - name: "2020.6 – 2022.12 <br> 小麦玉米轮作专用微喷带研发及关键技术集成应用（主要参与，河北省重点研发计划项目：V1592560997870）"
+  name_en: "Development and key technology integration of dedicated micro-sprinkling hoses for wheat–maize rotation (main participant, Key R&D Program of Hebei Province, V1592560997870)"
   status: completed
 - name: "2019.1 – 2021.12 <br> 门头沟区黄安村痕灌节水示范园节水成效评估（主持，北京市山地生态科技研究所，20万元）"
+  name_en: "Evaluation of water-saving performance of the Huang'an Village drip-irrigation demonstration park, Mentougou District (PI, Beijing Institute of Mountain Ecology and Technology, 200,000 RMB)"
   status: completed
 - name: "2017.1 – 2019.12 <br> 大田作物精准灌溉施肥控制技术与装备（骨干参与，国家重点研发计划）"
+  name_en: "Precision irrigation and fertilization control technology and equipment for field crops (key participant, National Key R&D Program)"
   status: completed
 - name: "2017 – 2019 <br> Robust ecohydraulic 3D modeling tools for rivers with complex instream structures (Participant, U.S. Bureau of Reclamation)"
   status: completed
@@ -34,6 +48,8 @@
 - name: "2014 – 2017 <br> Quantitative Modeling Tools of Scour and Morphological Impact due to Large Wood Debris Structures (Participant, U.S. Bureau of Reclamation)"
   status: completed
 - name: "2013 – 2015 <br> 文丘里施肥器结构优化设计与空化特性的研究 (参与, 教育部博士点基金课题) "
+  name_en: "Structural optimization and cavitation characteristics of Venturi fertigation injectors (participant, Doctoral Fund of the Ministry of Education)"
   status: completed
 - name: "2012 – 2015 <br> 水源含沙量对喷头磨损和喷灌系统灌水质量的影响研究 (参与, 国家自然科学基金面上项目) "
+  name_en: "Effects of sediment-laden water sources on sprinkler nozzle wear and irrigation quality (participant, General Program of the National Natural Science Foundation of China)"
   status: completed

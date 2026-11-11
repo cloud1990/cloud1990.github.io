@@ -22,9 +22,9 @@ permalink: /interests/
 
 作为方法内核，本方向研究水动力学过程本身：面向输配水管网、灌水器和生物污损界面，开展沼蛤附着聚团与滤食行为的水动力学机理、微喷带与射流泵内流数值模拟等研究。发展 CDEM 与 OpenFOAM 耦合功能模块、基础冲刷计算程序等专用数值工具，实现水沙、多相流及灌水器性能的高保真仿真与生物污损阻力预测。
 
-As the methodological core, this direction investigates hydrodynamic processes themselves. Targeting water distribution networks, emitters, and biofouling interfaces, we study the hydrodynamic mechanisms of mussel attachment, aggregation, and filter-feeding behavior, and conduct numerical simulations of internal flows in micro-sprinklers and jet pumps.
+As the methodological core, this direction investigates hydrodynamic processes themselves. Targeting water distribution networks, emitters, and biofouling interfaces, we study the hydrodynamic mechanisms of mussel attachment, aggregation, and filter-feeding behavior, and conduct numerical simulations of internal flows in micro-sprinklers and jet pumps. We also develop dedicated numerical tools such as a CDEM–OpenFOAM coupling module and a foundation scour code, enabling high-fidelity simulation of sediment-laden and multiphase flows and of emitter performance, as well as prediction of biofouling-induced resistance.
 
-<p style="font-size: 0.88rem; opacity: 0.75; margin-top: 8px;"><em>框架位置：方法内核 —— 水动力学如何描述水与生物、泥沙的相互作用。</em></p>
+<p style="font-size: 0.88rem; opacity: 0.75; margin-top: 8px;"><em>框架位置：方法内核 —— 水动力学如何描述水与生物、泥沙的相互作用。</em><br><span class="frame-en">Role in the framework: methodological core — how hydrodynamics describes the interactions between water, organisms and sediment.</span></p>
 
 <hr class="section-divider">
 
@@ -33,9 +33,9 @@ As the methodological core, this direction investigates hydrodynamic processes t
 
 作为生态系统的感知手段，本方向以四足机器狗为主要移动平台，融合北斗/GNSS 高精度定位、RGB-D 视觉及多源农田传感器网络，重点突破复杂农田环境下的自主导航与路径规划，发展基于深度图像的田间杂草精准识别、土壤墒情与作物生长信息的移动式原位监测技术。在此基础上，构建“感知-决策-执行”闭环，实现无人化的田间巡检、精准作业与智能管控。
 
-Using quadruped robotic dogs as the primary mobile platform, integrating BeiDou/GNSS high-precision positioning, RGB-D vision, and multi-source farmland sensor networks, we focus on autonomous navigation and path planning in complex farmland environments, and develop mobile in-situ monitoring technologies.
+Using quadruped robotic dogs as the primary mobile platform, integrating BeiDou/GNSS high-precision positioning, RGB-D vision, and multi-source farmland sensor networks, we focus on autonomous navigation and path planning in complex farmland environments, and develop mobile in-situ monitoring technologies for RGB-D image-based weed identification and for soil moisture and crop growth information. On this basis, we build a perception–decision–execution closed loop to achieve unmanned field inspection, precision operations and intelligent management.
 
-<p style="font-size: 0.88rem; opacity: 0.75; margin-top: 8px;"><em>框架位置：感知层 —— 用无人系统读取农业生态系统中的水、土、作物信息。</em></p>
+<p style="font-size: 0.88rem; opacity: 0.75; margin-top: 8px;"><em>框架位置：感知层 —— 用无人系统读取农业生态系统中的水、土、作物信息。</em><br><span class="frame-en">Role in the framework: perception layer — using unmanned systems to read water, soil and crop information from agricultural ecosystems.</span></p>
 
 <div style="display: flex; gap: 10px; margin-top: 12px;">
 <div style="width: 49%;">
@@ -72,9 +72,9 @@ Using quadruped robotic dogs as the primary mobile platform, integrating BeiDou/
 
 作为调控出口，本方向把水动力学认知转化为可执行的田间装备与技术：围绕大型喷灌机、微喷带等灌溉形式，开展变量灌溉水力控制阀、隔膜式水控阀瞬变流动机理、管道内水肥混合运移等关键部件的水力设计与优化。结合北斗精准定位与农田传感信息，研发水肥时空分布模型，构建灌溉施肥智能决策与精准执行系统。
 
-Focusing on large-scale sprinkler systems and micro-sprinkler hoses, we conduct hydraulic design and optimization of key components including variable-rate irrigation control valves, transient flow mechanisms of diaphragm-type control valves, and water-fertilizer mixing and transport in pipelines.
+Focusing on large-scale sprinkler systems and micro-sprinkler hoses, we conduct hydraulic design and optimization of key components including variable-rate irrigation control valves, transient flow mechanisms of diaphragm-type control valves, and water-fertilizer mixing and transport in pipelines. Combined with BeiDou precision positioning and farmland sensor data, we develop spatio-temporal water–fertilizer distribution models and build intelligent decision-making and precision execution systems for irrigation and fertilization.
 
-<p style="font-size: 0.88rem; opacity: 0.75; margin-top: 8px;"><em>框架位置：调控层 —— 把水动力学认知转化为可落地的精准灌溉装备。</em></p>
+<p style="font-size: 0.88rem; opacity: 0.75; margin-top: 8px;"><em>框架位置：调控层 —— 把水动力学认知转化为可落地的精准灌溉装备。</em><br><span class="frame-en">Role in the framework: regulation layer — turning hydrodynamic insight into deployable precision irrigation equipment.</span></p>
 
 <img
   src="{{site.url}}{{site.baseurl}}/images/research_figures/injections.gif"
@@ -90,6 +90,6 @@ Focusing on large-scale sprinkler systems and micro-sprinkler hoses, we conduct 
 
 作为系统尺度评价，本方向融合农田小气候监测与作物生长信息，构建喷灌水-土-作物耦合模型，揭示灌溉对田间温湿环境及水肥运移吸收的影响机制。在区域与跨国尺度上，开展节水灌溉技术综合效益评价，解析人口老龄化对技术采纳的影响，为水土资源的可持续管理提供跨学科决策支撑。
 
-Integrating farmland microclimate monitoring and crop growth information, we construct sprinkler irrigation water-soil-crop coupled models to reveal the influence mechanisms of irrigation on field temperature, humidity, and water-fertilizer transport and uptake.
+Integrating farmland microclimate monitoring and crop growth information, we construct sprinkler irrigation water-soil-crop coupled models to reveal the influence mechanisms of irrigation on field temperature, humidity, and water-fertilizer transport and uptake. At regional and cross-national scales, we evaluate the comprehensive benefits of water-saving irrigation technologies and analyze the impact of population aging on technology adoption, providing interdisciplinary decision support for sustainable management of water and soil resources.
 
-<p style="font-size: 0.88rem; opacity: 0.75; margin-top: 8px;"><em>框架位置：评价层 —— 在区域与跨国尺度上评价水动力过程的生态与经济社会响应。</em></p>
+<p style="font-size: 0.88rem; opacity: 0.75; margin-top: 8px;"><em>框架位置：评价层 —— 在区域与跨国尺度上评价水动力过程的生态与经济社会响应。</em><br><span class="frame-en">Role in the framework: assessment layer — evaluating the ecological and socio-economic responses of hydrodynamic processes at regional and cross-national scales.</span></p>

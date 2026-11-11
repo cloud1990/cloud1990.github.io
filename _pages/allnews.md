@@ -13,6 +13,7 @@ permalink: /allnews.html
 <li>
 <b>{{ article.date }}</b>
 {{ article.headline }}
+{% if article.headline_en %}<div class="news-en">{{ article.headline_en }}</div>{% endif %}
 </li>
 {% endfor %}
 </ul>

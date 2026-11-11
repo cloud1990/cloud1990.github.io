@@ -129,6 +129,121 @@ img {
   margin-bottom: 6px;
 }
 
+// === Member bio: Chinese line + English line, both gray and small ===
+
+.member-info-zh {
+  display: block;
+  font-style: italic;
+  color: var(--gray-dark, #555);
+  font-size: 0.9rem;
+  margin-top: 2px;
+}
+
+.member-info-en {
+  display: block;
+  font-style: italic;
+  color: var(--gray, #888);
+  font-size: 0.85rem;
+  margin-top: 2px;
+  text-align: left;
+}
+
+.alumni-bio-zh {
+  display: block;
+  padding-left: 56px;
+}
+
+.alumni-bio-en {
+  display: block;
+  color: var(--gray, #888);
+  font-size: 0.82rem;
+  margin-top: 2px;
+  text-align: left;
+  padding-left: 56px;
+}
+
+.alumni-meta-en {
+  display: block;
+  color: var(--gray, #888);
+  font-size: 0.85rem;
+  margin-top: 1px;
+  text-align: left;
+  padding-left: 56px;
+}
+
+
+.about-info-en {
+  margin-top: -8px;
+  margin-bottom: 12px;
+}
+
+// === News: Chinese line + English line in gray small text ===
+
+.news-en {
+  display: block;
+  color: var(--gray, #888);
+  font-size: 0.85rem;
+  margin-top: 2px;
+  text-align: left;
+}
+
+// === Grants: Chinese line + English line in gray small text ===
+
+.grant-en {
+  display: block;
+  color: var(--gray, #888);
+  font-size: 0.88rem;
+  margin-top: 1px;
+  text-align: left;
+}
+
+// === Sidebar education: English line under Chinese ===
+
+.educ-en {
+  display: block;
+  color: var(--gray, #888);
+  font-size: 0.8rem;
+  text-align: left;
+}
+
+// === Courses: English description under Chinese bullet ===
+
+.course-en {
+  display: block;
+  color: var(--gray, #888);
+  font-size: 0.88rem;
+  margin-top: 2px;
+  text-align: left;
+}
+
+// === Interest framework note: English under Chinese ===
+
+.frame-en {
+  display: block;
+  color: var(--gray, #999);
+  font-size: 0.85rem;
+  margin-top: 2px;
+  text-align: left;
+}
+
+// === Misc bilingual helpers ===
+
+.pub-note-en,
+.photo-caption-en,
+.link-en {
+  display: block;
+  color: var(--gray, #888);
+  font-size: 0.85rem;
+  font-weight: normal;
+}
+
+// === Long English blocks on Chinese pages ===
+
+.en-text {
+  color: var(--gray-dark, #666);
+  font-size: 0.92rem;
+}
+
 .member-educ-list {
   overflow: hidden;
   list-style: none;

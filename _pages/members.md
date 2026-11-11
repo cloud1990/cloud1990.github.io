@@ -14,7 +14,8 @@ permalink: /members/
 <div class="faculty-row">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="member-photo member-photo-faculty" alt="{{ member.name }}" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i><br>
+  <i class="member-info-zh">{{ member.info }}</i>
+  {% if member.info_en %}<i class="member-info-en">{{ member.info_en }}</i>{% endif %}
   {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-2x"></i></a> {% endif %}{% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %}{% if member.scholar %}<a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %}{% if member.github %}<a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %}{% if member.researchgate %}<a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-2x"></i></a> {% endif %}{% if member.cv %}<a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %}
   <ul class="member-educ-list">
   {% for i in (1..member.number_educ) %}
@@ -41,7 +42,8 @@ permalink: /members/
 <div class="col-sm-6 clearfix member-card-student">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="member-photo member-photo-student" alt="{{ member.name }}" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br></i>
+  <i class="member-info-zh">{{ member.info }}</i>
+  {% if member.info_en %}<i class="member-info-en">{{ member.info_en }}</i>{% endif %}
   {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa fa-home fa-2x"></i></a> {% endif %}  {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %}  {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %}  {% if member.cv %} <a href="{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %}  {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %}  {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-2x"></i></a> {% endif %}
   <ul class="member-educ-list">
   {% for i in (1..member.number_educ) %}
@@ -74,7 +76,9 @@ permalink: /members/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="alumni-photo" alt="{{ member.name }}" />
   <span class="alumni-info">
     <span class="alumni-name"><strong>{{ member.name }}</strong></span><span class="alumni-meta"> ({{ member.duration }})</span>
-    <span class="alumni-bio">{{ member.info }} </span>
+    {% if member.duration_en %}<span class="alumni-meta-en">{{ member.duration_en }}</span>{% endif %}
+    <span class="alumni-bio alumni-bio-zh">{{ member.info }} </span>
+    {% if member.info_en %}<span class="alumni-bio alumni-bio-en">{{ member.info_en }}</span>{% endif %}
   </span>
 </div>
 
@@ -85,7 +89,7 @@ permalink: /members/
 ## 团队合影 Group Photos
 {% for photo in site.data.group_photos %}
 <div>
-  <p style="text-align: center; margin-bottom: 2px;">{{ photo.caption }}</p>
+  <p style="text-align: center; margin-bottom: 2px;">{{ photo.caption }}{% if photo.caption_en %}<br><span class="photo-caption-en">{{ photo.caption_en }}</span>{% endif %}</p>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ photo.filename }}" alt="{{ photo.caption }}" class="img-fluid" style="display: block; margin: 0 auto; border-radius: 5%; max-width: 60%; height: auto;" />
 </div>
 <br>

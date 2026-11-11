@@ -19,14 +19,22 @@ permalink: /courses/
 
 课题组承担水利与智能工程学院本科与研究生课程教学，主要包括：
 
+The group teaches undergraduate and graduate courses at the College of Water Resources and Intelligence Engineering, mainly including:
+
 - **《能源与动力工程专业英语》** — 面向能源与动力工程专业本科生，涵盖流体力学、水力机械等方向的专业文献阅读与学术写作。
+  <br><span class="course-en">Professional English for Energy and Power Engineering — for undergraduates, covering the reading of technical literature and academic writing in fluid mechanics, hydraulic machinery and related fields.</span>
 - **《计算流体动力学编程实践》** — 面向研究生，以 OpenFOAM 为例讲授 CFD 开源工具的编译、网格生成、求解器使用与后处理。
+  <br><span class="course-en">Programming Practice in Computational Fluid Dynamics — for graduate students, using OpenFOAM to teach the compilation of open-source CFD tools, mesh generation, solver usage and post-processing.</span>
 
 课程课件与资料正在整理中，暂不提供公开下载。如有需要请通过 <a href="mailto:ycxu@cau.edu.cn">邮件</a> 联系。
+
+Course materials are being compiled and are not yet available for public download. Please <a href="mailto:ycxu@cau.edu.cn">contact us by email</a> if needed.
 
 <hr class="section-divider">
 
 ### 《能源与动力工程专业英语》
+<span class="interest-subtitle">Professional English for Energy and Power Engineering</span>
+
 <!--
 <div class="jumbotron">
 <b>2024年秋季学期PPT下载</b>
@@ -52,6 +60,8 @@ permalink: /courses/
 <hr class="section-divider">
 
 ### 《计算流体动力学编程实践》
+<span class="interest-subtitle">Programming Practice in Computational Fluid Dynamics</span>
+
 <!--
 <div class="jumbotron">
 #### <b>2025年春季学期PPT下载</b>

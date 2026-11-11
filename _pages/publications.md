@@ -10,6 +10,7 @@ permalink: /publications/
 
 <div class="pub-note">
 所有共同第一作者均加注上标“#”字样，通讯作者及共同通讯作者均加注上标“*”字样
+<br><span class="pub-note-en">Co-first authors are marked with the superscript “#”; corresponding and co-corresponding authors with the superscript “*”.</span>
 </div>
 
 #### 2026

@@ -1,62 +1,87 @@
+- date: 15 Oct, 2026
+  headline: "欢迎高一鸣保研加入课题组!"
+  headline_en: "Welcome Gao Yiming, admitted through recommendation-based admission, to the group!"
+
 - date: 1 June, 2026
   headline: "恭喜何东洋、余丰伟、黄雨璇顺利通过硕士学位论文答辩!"
+  headline_en: "Congratulations to Dongyang He, Fengwei Yu and Yuxuan Huang on successfully defending their master's theses!"
 
 - date: 15 April, 2026
   headline: "欢迎李诗甜和王佳乐加入课题组!"
+  headline_en: "Welcome Shitian Li and Jiale Wang to the group!"
 
 - date: 18 Jan, 2026
   headline: '何东洋等关于冬小麦喷灌水肥运移和干热风的论文被Agronomy接收!<a href="https://www.mdpi.com/2073-4395/16/2/238/xml">论文详情</a> '
+  headline_en: 'The paper by Dongyang He et al. on water-fertilizer transport and dry-hot wind response in sprinkler-irrigated winter wheat has been accepted by Agronomy!<a href="https://www.mdpi.com/2073-4395/16/2/238/xml">Details</a>'
 
 - date: 15 Oct, 2025
   headline: "欢迎杨晰然保研加入课题组!"
+  headline_en: "Welcome Xiran Yang, admitted through recommendation-based admission, to the group!"
 
 - date: 1 June, 2025
   headline: "恭喜侯晴晴、乔鸿瑞顺利通过硕士学位论文答辩!"
+  headline_en: "Congratulations to Qingqing Hou and Hongrui Qiao on successfully defending their master's theses!"
 
 - date: 15 May, 2025
   headline: "欢迎努尔楚阿克加入课题组!"
+  headline_en: "Welcome Nurlanbek Nurshuak to the group!"
 
 - date: 11 May, 2025
   headline: '徐云成省级农业灌溉碳排放减排潜力的论文被Sustainability接收!<a href="https://www.mdpi.com/2071-1050/17/12/5501">论文详情</a> '
+  headline_en: 'The paper by Prof. Yuncheng Xu on the provincial-level carbon-reduction potential of agricultural irrigation has been accepted by Sustainability!<a href="https://www.mdpi.com/2071-1050/17/12/5501">Details</a>'
 
 - date: 11 May, 2025
   headline: '余丰伟等关于隔膜阀CFD数值模拟的论文被Water接收!<a href="https://www.mdpi.com/2073-4441/17/10/1450">论文详情</a> '
+  headline_en: 'The paper by Fengwei Yu et al. on CFD simulation of diaphragm valves has been accepted by Water!<a href="https://www.mdpi.com/2073-4441/17/10/1450">Details</a>'
 
 - date: 15 April, 2025
   headline: "欢迎胡燕、陈春阳、张博文加入课题组!"
+  headline_en: "Welcome Yan Hu, Chunyang Chen and Bowen Zhang to the group!"
 
 - date: 15 Oct, 2024
   headline: "欢迎邵子怡保研加入课题组!"
+  headline_en: "Welcome Ziyi Shao, admitted through recommendation-based admission, to the group!"
 
 - date: 1 Sept, 2024
   headline: "欢迎许添一、黄雨璇、乔蔚荧正式入学!"
+  headline_en: "Welcome Tianyi Xu, Yuxuan Huang and Weiying Qiao as new graduate students!"
 
 - date: 30 June, 2024
   headline: "恭喜汪小珊顺利通过博士学位论文答辩!"
+  headline_en: "Congratulations to Xiaoshan Wang on successfully defending her doctoral dissertation!"
   
 - date: 15 April, 2024
   headline: "欢迎黄雨璇、乔蔚荧加入课题组!"
+  headline_en: "Welcome Yuxuan Huang and Weiying Qiao to the group!"
 
 - date: 10 Nov, 2023
   headline: "欢迎虞婧渭以本科生加入课题组!"
+  headline_en: "Welcome Weijing Yu to the group as an undergraduate researcher!"
   
 - date: 15 Oct, 2023
   headline: "欢迎许添一保研加入课题组!"
+  headline_en: "Welcome Tianyi Xu, admitted through recommendation-based admission, to the group!"
   
 - date: 1 Sept, 2023
   headline: "欢迎余丰伟、乔鸿瑞加入课题组!"
+  headline_en: "Welcome Fengwei Yu and Hongrui Qiao to the group!"
 
 - date: 30 June, 2023
   headline: "恭喜金士呈顺利通过硕士学位论文答辩!"
+  headline_en: "Congratulations to Shicheng Jin on successfully defending his master's thesis!"
 
 - date: 14 Oct, 2022
   headline: '徐云成等关于Sediment Sampler的论文被ASCE Journal of Irrigation and Drainage Engineering接收并正式发表，同时入选Editor Choice Collection!<a href="https://ascelibrary.org/doi/10.1061/%28ASCE%29IR.1943-4774.0001733f" target="_blank">论文详情</a> '
+  headline_en: 'The paper by Yuncheng Xu et al. on sediment samplers has been accepted and published in the ASCE Journal of Irrigation and Drainage Engineering and selected for the Editor Choice Collection!<a href="https://ascelibrary.org/doi/10.1061/%28ASCE%29IR.1943-4774.0001733f" target="_blank">Details</a>'
   
 - date: 14 Oct, 2022
   headline: '汪小珊等关于微喷带水量分布的论文被SCI期刊接收并正式发表!<a href="https://www.mdpi.com/2073-4441/14/20/3260/pdf" target="_blank">PDF下载</a> '
+  headline_en: 'The paper by Xiaoshan Wang et al. on the water distribution of micro-sprinkling hoses has been accepted and published in an SCI-indexed journal!<a href="https://www.mdpi.com/2073-4441/14/20/3260/pdf" target="_blank">PDF</a>'
 
 - date: 8 Sept, 2022
   headline: "沼蛤聚团及滤食行为相关的国家自然科学基金青年项目正式获批!"
+  headline_en: "The Young Scientists Fund project of the National Natural Science Foundation of China on mussel aggregation and filter-feeding behavior has been officially approved!"
 
 - date: 1 Sept, 2022
   headline: "欢迎何东洋、侯晴晴加入课题组!"
+  headline_en: "Welcome Dongyang He and Qingqing Hou to the group!"

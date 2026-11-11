@@ -12,6 +12,8 @@ permalink: /openings/
 
 课题组的四个研究方向覆盖机理、感知、调控与评价，无论你擅长流体计算、机器人与视觉，还是模型与数据分析，都能在这里找到合适的切入点。
 
+Our four research directions span mechanism, sensing, regulation and assessment, so whether you are strong in fluid computation, robotics and vision, or modeling and data analysis, you will find a suitable entry point here.
+
 Our students come from diverse disciplines — water resources, energy and power, hydrology, soil and water conservation, civil engineering. Academic background is never a barrier here; different ideas collide to spark innovation.
 </div>
 
@@ -60,13 +62,34 @@ Our students come from diverse disciplines — water resources, energy and power
 1. **预推免面试** — 秋季学期初，可直接联系导师沟通研究意向并参加面试。
 2. **推免系统填报与录取** — 教育部推免服务系统开放后填报志愿、参加复试确认录取。
 
+<div class="en-text">
+
+1. **Pre-admission interview** — At the beginning of the autumn semester you may contact the supervisor directly to discuss your research interests and attend an interview.
+2. **Application in the recommendation system** — Once the Ministry of Education's recommendation-based admission system opens, submit your preferences and attend the re-examination to confirm admission.
+
+</div>
+
 ### 统考（考研） National Entrance Examination
 
 1. **网上报名** — 以中国研究生招生信息网公布的时间为准。
 2. **初试** — 按全国统一考试时间参加初试。
 3. **复试与录取** — 初试成绩公布后，按学院通知参加复试。
 
+<div class="en-text">
+
+1. **Online registration** — Follow the schedule announced by the China Graduate Admissions Information Network.
+2. **Preliminary examination** — Take the preliminary examination according to the national unified examination schedule.
+3. **Re-examination and admission** — After the preliminary results are released, attend the re-examination as notified by the college.
+
+</div>
+
 > 以上为一般流程。**具体时间节点请以中国农业大学研究生院与学院当年发布的招生通知为准**，本站不另行公布具体日期。
+
+<div class="en-text">
+
+The above is the general procedure. **For specific dates, please refer to the admission notices issued each year by the Graduate School of China Agricultural University and the college**; this website does not publish specific dates.
+
+</div>
 
 <!-- TODO（待用户提供学院口径后补充）：夏令营 / 预推免 / 推免系统填报 / 统考报名 / 初试 / 复试的确切日期 -->
 
@@ -84,6 +107,20 @@ Our students come from diverse disciplines — water resources, energy and power
 
 材料请发送至 <a href="mailto:ycxu@cau.edu.cn">ycxu@cau.edu.cn</a>，邮件标题建议格式为「申请-姓名-本科院校-专业」，我们会尽快回复。
 
+<div class="en-text">
+
+Prospective students are welcome to contact us in advance and prepare the following materials:
+
+- Curriculum vitae (educational background, class ranking, research or competition experience, skills)
+- Undergraduate transcripts and proof of major ranking
+- Evidence of English proficiency (CET-4/CET-6 score reports or other language test results)
+- Other supporting materials (publications, patents, competition awards, project experience, etc.)
+- Statement of intended program and research interests (optional)
+
+Please send the materials to <a href="mailto:ycxu@cau.edu.cn">ycxu@cau.edu.cn</a>, using the subject line format “Application – Name – Undergraduate University – Major”. We will reply as soon as possible.
+
+</div>
+
 <hr class="section-divider">
 
 ## 报考信息 Entrance Exam Information
@@ -94,6 +131,14 @@ Our students come from diverse disciplines — water resources, energy and power
 - 招生专业代码与名称：**待补充**
 - 初试科目：**待补充**
 - 近年复试分数线：**待补充**
+
+<div class="en-text">
+
+- Program code and name: **to be updated**
+- Preliminary examination subjects: **to be updated**
+- Re-examination cut-off scores in recent years: **to be updated**
+
+</div>
 
 <hr class="section-divider">
 
@@ -114,4 +159,25 @@ Our students come from diverse disciplines — water resources, energy and power
 </ul>
 </div>
 
+<div class="en-text">
+
+The group has trained a number of PhD, master's and bachelor's graduates, who have gone on to universities, research institutes, government agencies, design institutes and enterprises:
+
+- **Xiaoshan Wang** (PhD 2024, Hydraulic Engineering) → Sichuan Academy of Agricultural Machinery Sciences
+- **Qingqing Hou** (MSc 2025, Energy and Power Engineering) → Ph.D. study at Beijing Normal University
+- **Weijing Yu** (BEng 2026, Energy and Power Engineering) → Master's study at Shanghai Jiao Tong University
+- **Fengwei Yu** (MSc 2026, Hydraulic Engineering) → Yangtze River Basin Business Division, China Water Rights Exchange Co., Ltd.
+- **Yuxuan Huang** (MSc 2026, Civil and Hydraulic Engineering) → XCMG New Energy Power Technology Co., Ltd.
+- **Shicheng Jin** (MSc 2023, Civil and Hydraulic Engineering) → Henan Yunan Water Conservancy Survey and Design Co., Ltd.
+- **Chengfan Sun** (MSc 2022, Energy and Power Engineering) → Leshan Municipal Government, Sichuan Province
+- **Hongrui Qiao** (MSc 2025, Energy and Power Engineering) → Chengdu Municipal Government, Sichuan Province
+
+</div>
+
 去向覆盖**学术深造、科研院所、公共部门与产业界**多个方向。更多在读成员与校友信息见 <a href="{{ site.url }}{{ site.baseurl }}/members/">团队成员</a> 页。
+
+<div class="en-text">
+
+Destinations span **academic advancement, research institutes, the public sector and industry**. See the <a href="{{ site.url }}{{ site.baseurl }}/members/">Members</a> page for more current members and alumni.
+
+</div>

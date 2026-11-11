@@ -14,44 +14,15 @@
   </center>
 
   <ul style="overflow: hidden">
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1short | replace: "-","&#8211;"}} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1short | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education2short | replace: "-","&#8211;"}} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1short | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education2short | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education3short }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1short | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education2short | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education3short | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education4short | replace: "-","&#8211;"}} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1short | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education2short | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education3short | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education4short | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education5short | replace: "-","&#8211;"}} </li>
-  {% endif %}
-
-  {% if member.number_educ == 6 %}
-  <li> {{ member.education1short | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education2short | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education3short | replace: "-","&#8211;"}} </li>
-  <li> {{ member.education4short | replace: "-","&#8211;"}} </li>
-  <!-- <li> {{ member.education5short | replace: "-","&#8211;"}} </li> -->
-  <li> {{ member.education6short | replace: "-","&#8211;"}} </li>
-  {% endif %}
+  {% for i in (1..member.number_educ) %}
+    {% assign short_key = "education" | append: i | append: "short" %}
+    {% assign short_en_key = "education" | append: i | append: "short_en" %}
+    {% assign short_val = member[short_key] %}
+    {% assign short_en_val = member[short_en_key] %}
+    {% if short_val and short_val != "" %}
+  <li> {{ short_val | replace: "-","&#8211;" }}{% if short_en_val %}<span class="educ-en">{{ short_en_val }}</span>{% endif %} </li>
+    {% endif %}
+  {% endfor %}
   </ul>
 </div>
 {% endfor %}
@@ -62,7 +33,7 @@
 
   {% for article in site.data.news limit:3 %}
   <b>{{ article.date }}</b>
-    <p>{{ article.headline }}</p>
+    <p>{{ article.headline }}{% if article.headline_en %}<br><span class="news-en">{{ article.headline_en }}</span>{% endif %}</p>
   {% endfor %}
   
   <h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h5>

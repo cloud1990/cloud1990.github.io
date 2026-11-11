@@ -59,7 +59,7 @@ We are recruiting PhD and Master students through both recommendation-based admi
 </div>
 </div>
 
-<p style="margin-top: 14px;"><a href="{{ site.url }}{{ site.baseurl }}/openings/"><strong>查看招生详情、时间线、申请材料与往届去向 →</strong></a></p>
+<p style="margin-top: 14px;"><a href="{{ site.url }}{{ site.baseurl }}/openings/"><strong>查看招生详情、时间线、申请材料与往届去向 →</strong><br><span class="link-en">See admission details, timeline, application materials and graduate destinations →</span></a></p>
 
 <hr class="section-divider">
 
